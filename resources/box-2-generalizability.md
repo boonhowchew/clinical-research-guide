@@ -1,6 +1,6 @@
 # Box 2: Generalizability
 
-`{% hint style="info" %}`
+{% hint style="info" %}
 
 A robust sampling strategy and an adequate sample size are critical for ensuring the generalizability of your findings. Generalizability, or external validity, refers to how confidently the results from your study sample can be applied to a broader group of interest.
 
@@ -23,4 +23,4 @@ How Sample Size Affects Generalizability While the sampling method determines wh
 
 Calculating the correct sample size ensures that your study's results are precise and reliable enough to be considered for generalization.
 
-`{% endhint %}`
+{% endhint %}
