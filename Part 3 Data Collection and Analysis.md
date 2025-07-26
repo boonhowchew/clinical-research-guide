@@ -30,6 +30,7 @@ Your Plan Should Include:
   * Linear Regression: For continuous outcomes (e.g., predicting a quality-of-life score).
 
 3.3 Data Analysis, Statistical Assumptions and Model Diagnostics
+
 Statistical analysis is essential for producing valid and precise research results. To achieve this, you must understand your data's characteristics and ensure that the underlying assumptions of your statistical models are met. This guide will walk you through describing your data before moving to the key assumptions and diagnostic checks for multiple logistic and linear regression, which are foundational pillars for ensuring the reliability and interpretability of your findings. For elaboration of the following HERE.
  
 1. Descriptive Statistics: The First Look
