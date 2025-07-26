@@ -1,4 +1,4 @@
-4.1 Ensure Ethical Conduct 
+## 4.1 Ensure Ethical Conduct 
 Behind every data point is a person. Ethical conduct is non-negotiable.
 
   * Ethical Approval: Get approval from a Research Ethics Committee or Institutional Review Board (IRB) before you start.
@@ -6,7 +6,7 @@ Behind every data point is a person. Ethical conduct is non-negotiable.
   * Confidentiality: Protect participants' data and ensure anonymity in all reports.
 
 
-4.2 Interpret and Discuss Your Results (for content guide in the research proposal here)
+## 4.2 Interpret and Discuss Your Results (for content guide in the research proposal here)
 
 A number is just a number until you explain what it means.
   * Interpretation of Results: Translate statistical findings back into meaningful health context. For example, a statistically significant association (P < 0.05) between low education and poor knowledge suggests that health intervention should target this group with simpler, more accessible materials.
@@ -18,7 +18,7 @@ A number is just a number until you explain what it means.
   * Conclusion and Recommendations: Begin your conclusion by synthesizing your findings to provide direct and clear answers to your initial research questions or objectives. Building on this, answer the crucial "so what?" question by emphasizing the broader implications and significance of your work, clearly stating its contribution to the field. Make sure the conclusions take into account the study's limitations. If possible, provide actionable recommendations based on the findings, proposing specific, impactful directions for future inquiry.
   * Reporting: Follow standard reporting guidelines, such as STROBE (Strengthening the Reporting of Observational Studies in Epidemiology), to ensure your research is transparent, comprehensive, and reproducible (www.strobe-statement.org).
 
-4.3 Practical Planning
+## 4.3 Practical Planning
 A good plan includes a budget, a timeline (a Gantt chart is useful), and documented support from your team and institution. By following these structured steps, you can transform your initial curiosity into a solid, ethical, and impactful research study. Congratulations on taking this important step!
 
 For further tips and guidance on using artificial intelligence tools in your research proposal writing and learning, go here.
