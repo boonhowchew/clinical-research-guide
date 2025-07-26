@@ -1,5 +1,7 @@
 # Box 1: Prevalence & Incidence
 
+`{% hint style="info" %}`
+
 Prevalence measures the proportion of a population that has a specific disease or condition. It provides a snapshot of the existing disease burden on a population, which is crucial for resource allocation and healthcare planning. While the term prevalence proportion is technically more precise, "prevalence" is commonly used.
 
 • Point Prevalence: This is the most common measure. It quantifies the proportion of individuals who have a disease at a single point in time. If the term "prevalence" is used without further specification, it generally implies point prevalence.
@@ -37,3 +39,5 @@ The Relationship Between Prevalence and Incidence In a stable population (where 
 Prevalence ≈ Incidence Rate × Average Disease Duration
 
 This equation highlights that a high prevalence can be due to a high incidence (many new cases) or a long disease duration (slow cure or death rate), or both. For example, the high prevalence of hypertension is due to both a high incidence and its chronic, lifelong nature. Conversely, the common cold has a high incidence but a low prevalence because its duration is short.
+
+`{% endhint %}`
