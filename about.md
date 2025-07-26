@@ -14,7 +14,7 @@ Department of Family Medicine
 Faculty of Medicine and Health Sciences
 Universiti Putra Malaysia, 43400 UPM Serdang
 Selangor Darul Ehsan, Malaysia
-Email: chewboonhow@upm.edu.my 
+Email: chewboonhow@upm.edu.my; 
 MMC No. 36222 | NSR No. 125625 
 
 All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, or otherwise, without prior written permission from the owner.
