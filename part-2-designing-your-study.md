@@ -2,12 +2,13 @@
 
 With a clear question, you can now design the study. For estimating "how common" something is, a cross-sectional study is often the best choice. It’s like taking a snapshot—it captures what's happening at a single point in time. For a prevalence study manual-checklist [HERE](https://drive.google.com/file/d/1nReuxeeSsu_T7lvr-kNMojOglzfShOg8/view?usp=share_link).
 
-## 2.1 Define Your Population and Sampling Strategy 
+## 2.1 Define Your Population and Sampling Strategy
+
 Your study's credibility rests on who you study and how you select them. For further elaboration on samplings [here](https://drive.google.com/file/d/1276yyVzI4Df2HoLd7pAGgfnYK-KB6J1a/view?usp=share_link), and online survey [here](https://drive.google.com/file/d/19q75tjplzmiTPv1flYbRzs-0XVnsljtN/view?usp=share_link).
 
 In many clinical research settings, a pre-existing, comprehensive list of the entire target population, a classic sampling frame, is rarely available. The challenge is that the population is often dynamic (e.g., patients who will change in their disease status, clinic attendance, place of residence, etc). Therefore, the concept of a sampling frame must be adapted.
 
-For clinical studies, the sampling frame becomes the operational definition of the source population from which you will recruit participants. It is the specific group of accessible individuals who meet your eligibility criteria over a defined period. Defining this frame precisely is critical, as inaccuracies or omissions of a certain pattern during recruitment could miss an opportunity of efficiency in sampling methods, or be a major source of selection bias, and can limit the generalizability of your findings (see [Box Information 2](<resources/Box information 2 on generalizability.md>) for more on generalizability).
+For clinical studies, the sampling frame becomes the operational definition of the source population from which you will recruit participants. It is the specific group of accessible individuals who meet your eligibility criteria over a defined period. Defining this frame precisely is critical, as inaccuracies or omissions of a certain pattern during recruitment could miss an opportunity of efficiency in sampling methods, or be a major source of selection bias, and can limit the generalizability of your findings (see [Box Information 2](resources/box-2-generalizability.md) for more on generalizability).
 
 Examples of Operational Sampling Frames: • For a cross-sectional study: "All adults aged 30 or older living with hypertension attending the Klinik Kesihatan Serdang outpatient clinic for any reason between July to August 2025, who agree to participate." • For a retrospective study: "All patients with a diagnosis of Type 2 Diabetes (ICD-10 code E11.x) in the electronic medical records of the Klinik Kesihatan Serdang database as of today, July 15, 2025." • For a prospective study: "All patients aged 18-65 who present to the Serdang Hospital Emergency Department with a first-time diagnosis of acute coronary syndrome between January 1, 2026, and December 31, 2026."
 
@@ -30,14 +31,15 @@ Examples of Operational Sampling Frames: • For a cross-sectional study: "All a
 
 • Essential Final Check: Assess Representativeness No matter the sampling method chosen, a crucial final step is to check the representativeness of your study sample. You must compare the key demographic and clinical characteristics of your participants against the known or published parameters of the target population. This assessment is vital for identifying potential biases and understanding the true extent to which your findings can be generalized.
 
-## 2.2 Determine Your Sample Size 
+## 2.2 Determine Your Sample Size
+
 Guessing isn't enough—you must calculate your sample size before starting. An adequate sample size ensures your findings are precise, reliable, and not due to chance.
 
 You often need to calculate the sample size for two different objectives: prevalence estimation and association analysis (regression), and then use the larger of the two calculations. Below are brief explanations, and for a further elaboration here, use a simple online calculator here on Google’s AI studio (DO NOT ‘mess’ with the codes or its features).
 
 A. Sample Size for Prevalence Estimation: This ensures your "snapshot" is sharp and not blurry.
 
-● Formula:&#x20;
+● Formula:
 
 $$
 N_{prevalence} = \frac{Z^2 \times P(1-P)}{d^2}
@@ -62,9 +64,10 @@ B. Sample Size for Association (Multivariable Regression): This ensures your stu
 1. Required Events = 10 × (Number of predictor parameters).
 2. Total Sample Size = Required Events / Expected Event Rate (Prevalence).
 
-Examples of sample size estimation description [HERE](<resources/Examples of sample size estimation description.md>).
+Examples of sample size estimation description [HERE](resources/Examples%20of%20sample%20size%20estimation%20description.md).
 
-## 2.3 Select and Validate Your Measurement Tools 
+## 2.3 Select and Validate Your Measurement Tools
+
 What you use to measure is as important as what you measure. Your tool, typically a questionnaire, must be both valid and reliable. For a further elaboration on quality questionnaires [here](https://drive.google.com/file/d/1OFq9zpqxlVPWLQ-7MuDwRuAekxIk0nU3/view?usp=share_link).
 
 ● Validity (Accuracy): Does it measure what it's supposed to?
