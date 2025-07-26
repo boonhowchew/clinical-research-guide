@@ -2,8 +2,7 @@
 
 This is where your plan comes to life. A well-organized process is key to getting high-quality data. For a practical field guide on online survey research [here](https://drive.google.com/file/d/19q75tjplzmiTPv1flYbRzs-0XVnsljtN/view?usp=share_link).
 
-3.1 Plan and Pilot Your Data Collection
-
+## 3.1 Plan and Pilot Your Data Collection
 * Who, Where, How: Decide who will collect the data (and train them well to avoid interviewer bias), where it will happen (clinic, online), and how (interviews, self-administered forms).
 * Pilot Study: Administer the refined questionnaire to a larger sample (e.g., 10-30 individuals) under actual field conditions. This allows for a final check of procedures, and required resources for ascertainment of recruitment rate. This helps you catch glitches before they become major problems.
 
@@ -14,7 +13,8 @@ This is where your plan comes to life. A well-organized process is key to gettin
 * Data Administration: This can be interviewer-administered (good for populations with low literacy) or self-administered (reduces social desirability bias for sensitive topics).
 * Quality Control: The researcher or the principal investigator as the field supervisor should perform spot-checks and review completed forms daily for completeness and consistency.
 
-3.2 Create a Data Analysis Plan (for a real published example [HERE](https://drive.google.com/file/d/1BvTn5cu9v4rIhfUJDMee8gjc4Z6wyH7v/view?usp=share_link)) Decide before you collect data how you will analyse it. This prevents bias and ensures you use the right statistical tests. This plan prevents p-hacking and data-dredging. It should detail: • The software to be used (e.g., SPSS, Stata, R). • How variables will be coded and scored (e.g., how to define "good knowledge" vs. "poor knowledge" from a series of questions). • The specific statistical tests that will be used to address each research objective.
+## 3.2 Create a Data Analysis Plan (for a real published example [HERE](https://drive.google.com/file/d/1BvTn5cu9v4rIhfUJDMee8gjc4Z6wyH7v/view?usp=share_link)) 
+Decide before you collect data how you will analyse it. This prevents bias and ensures you use the right statistical tests. This plan prevents p-hacking and data-dredging. It should detail: • The software to be used (e.g., SPSS, Stata, R). • How variables will be coded and scored (e.g., how to define "good knowledge" vs. "poor knowledge" from a series of questions). • The specific statistical tests that will be used to address each research objective.
 
 Your Plan Should Include:
 
@@ -30,8 +30,7 @@ Your Plan Should Include:
 * Logistic Regression: For binary outcomes (e.g., good vs. poor practice).
 * Linear Regression: For continuous outcomes (e.g., predicting a quality-of-life score).
 
-3.3 Data Analysis, Statistical Assumptions and Model Diagnostics 
-
+## 3.3 Data Analysis, Statistical Assumptions and Model Diagnostics 
 Statistical analysis is essential for producing valid and precise research results. To achieve this, you must understand your data's characteristics and ensure that the underlying assumptions of your statistical models are met. This guide will walk you through describing your data before moving to the key assumptions and diagnostic checks for multiple logistic and linear regression, which are foundational pillars for ensuring the reliability and interpretability of your findings. For elaboration of the following [HERE](https://drive.google.com/file/d/1HkkE10fEqBEMVdSAZo1naFm1jABaBOGz/view?usp=share_link).
 
 1. Descriptive Statistics: The First Look This is the initial, essential step to characterize your data before modelling.
@@ -74,7 +73,8 @@ Statistical analysis is essential for producing valid and precise research resul
 * Check standardised residuals (values > 3 are extreme).
 * Assess Cook's Distance (values > 1 or > 4/n are influential).
 
-3.4 Planning for Success: Measures to Take Before You Analyse Proactive planning is key to mitigating statistical issues and enhancing the credibility of your research.
+## 3.4 Planning for Success: 
+Measures to Take Before You Analyse Proactive planning is key to mitigating statistical issues and enhancing the credibility of your research.
 
 * A Priori Power Analysis: Before the study begins, conduct a power analysis to determine the necessary sample size to detect a clinically meaningful effect.
 * Develop a Detailed Research Protocol: A pre-specified protocol is essential and should outline research questions, hypotheses, outcomes, and the statistical analysis plan. This helps prevent bias.
