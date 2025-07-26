@@ -64,7 +64,7 @@ B. Sample Size for Association (Multivariable Regression): This ensures your stu
 1. Required Events = 10 × (Number of predictor parameters).
 2. Total Sample Size = Required Events / Expected Event Rate (Prevalence).
 
-Examples of sample size estimation description [HERE](resources/Examples%20of%20sample%20size%20estimation%20description.md).
+Examples of sample size estimation description [HERE](resources/examples-sample-size.md).
 
 ## 2.3 Select and Validate Your Measurement Tools
 
