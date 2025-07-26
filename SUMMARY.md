@@ -10,5 +10,6 @@
 
 * [Key References](resources/key-references.md)
 * [Box Information 1: Prevalence & Incidence](resources/prevalence and incidence.md)
-* [Box Information 2: Generalizability](resources/generalizability.md)
+* [Box Information 2: on generalizability](resources/generalizability.md)
+* [Examples Sample Size Description](resources/Examples of sample size estimation description)
 * [About](about.md)
