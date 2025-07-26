@@ -24,4 +24,4 @@ This guide applies equally well to the planning and conduct of KAP studies. A Kn
 * Evaluate the impact of health education or campaigns post-intervention.
 * Inform policy and communication strategies. Variants of this study include KABP (Knowledge, Attitude, Beliefs, Practice) and KAPS (Knowledge, Attitude, Perceptions, Skills), which simply add or substitute dimensions but follow the same core principles.
 
-The [Box Information 1](<resources/Box information 1 Prevalence and Incidence.md>) below defines and explains about prevalence and incidence and related concepts that MUST be grasped. For samples of published research proposals as journal protocol papers by the author [here](https://drive.google.com/drive/folders/1c4OavVFVQElKiW73voaSRbi792nwLt3U?usp=share_link).
+The [Box Information 1](resources/box-1-prevalence-incidence.md) below defines and explains about prevalence and incidence and related concepts that MUST be grasped. For samples of published research proposals as journal protocol papers by the author [here](https://drive.google.com/drive/folders/1c4OavVFVQElKiW73voaSRbi792nwLt3U?usp=share_link).
