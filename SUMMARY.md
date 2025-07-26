@@ -9,6 +9,7 @@
 ## Resources
 
 * [Key References](resources/key-references.md)
-* [Glossary: Prevalence & Incidence](resources/glossary-prevalence-incidence.md)
-* [Glossary: Generalizability](resources/glossary-generalizability.md)
+* [Box 1: Prevalence & Incidence](<resources/Box information 1: Prevalence and Incidence.md>)
+* [Box 2: Generalizability](<resources/Box information 2: on generalizability.md>)
+* [Examples: Sample Size](<resources/Examples of sample size estimation description.md>)
 * [About](about.md)
