@@ -1,6 +1,6 @@
 # Examples: Sample Size
 
-`{% hint style="info" %}`
+{% hint style="info" %}
 
 Example 1 ([The PODSAS Study](http://dx.doi.org/10.1136/bmjopen-2019-034458))
 
@@ -10,4 +10,4 @@ Example 2 ([The PA-SCID Study](https://medic.upm.edu.my/upload/dokumen/202012301
 
 The required sample size to estimate 5% (lowest proportion) returned to paid work in the first year since injury among the people with SCID with the power 0.80 and α 0.05 at two tails is 786. Also based on our primary objective of quality of life, assuming that 15 predictors account for 10% of the variance of quality of life in a random model multiple linear regression at two tails, the ρ2 is 0.10, and the required sample size is 213 subjects to achieve the same power and α levels used for the sample size estimation for the lowest proportion of returning to a paid work. Thus, we use the larger required sample size of 786 and inflate it with 50% non-response and non-completion rates (36,37); the required number of participants.
 
-`{% endhint %}`
+{% endhint %}
