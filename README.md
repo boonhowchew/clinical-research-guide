@@ -23,10 +23,10 @@ From epidemiological standpoint, it is critical to understand that such a cross-
 6.	Explore In-Depth Perceptions: It cannot explore complex lived experiences or the "why" behind behaviours, which requires qualitative methods.
 
 This guide applies equally well to the planning and conduct of KAP studies. A Knowledge, Attitude, and Practice (KAP) study is a quantitative cross-sectional survey designed to assess the levels of knowledge, prevailing attitudes (or beliefs/perceptions), and self-reported practices of a specific population regarding a particular health issue, disease, or treatment/intervention. It is often used to:
-•	Identify knowledge gaps, cultural beliefs, or behavioural patterns that may facilitate or hinder certain health behaviours, treatments or public health programs.
-•	Establish a baseline for planning health interventions.
-•	Evaluate the impact of health education or campaigns post-intervention.
-•	Inform policy and communication strategies.
+  * Identify knowledge gaps, cultural beliefs, or behavioural patterns that may facilitate or hinder certain health behaviours, treatments or public health programs.
+  * Establish a baseline for planning health interventions.
+  * Evaluate the impact of health education or campaigns post-intervention.
+  * Inform policy and communication strategies.
 Variants of this study include KABP (Knowledge, Attitude, Beliefs, Practice) and KAPS (Knowledge, Attitude, Perceptions, Skills), which simply add or substitute dimensions but follow the same core principles. 
 
 The Box Information 1 below defines and explains about prevalence and incidence and related concepts that MUST be grasped. For samples of published research proposals as journal protocol papers by the author here.
