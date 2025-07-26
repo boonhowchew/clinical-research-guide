@@ -7,6 +7,7 @@ Behind every data point is a person. Ethical conduct is non-negotiable.
 
 
 4.2 Interpret and Discuss Your Results (for content guide in the research proposal here)
+
 A number is just a number until you explain what it means.
   * Interpretation of Results: Translate statistical findings back into meaningful health context. For example, a statistically significant association (P < 0.05) between low education and poor knowledge suggests that health intervention should target this group with simpler, more accessible materials.
   * Precision: How precise is your estimate? Look at the 95% confidence intervals.
