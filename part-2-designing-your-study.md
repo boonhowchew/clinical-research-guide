@@ -56,7 +56,8 @@ $$
 
 Explanatory Note for Subgroups: If you plan to analyze subgroups (e.g., by age or gender), you must calculate the sample size based on the subgroup with the lowest expected prevalence to ensure precision for that group. This will significantly increase your total required sample size.
 
-### B. Sample Size for Association (Multivariable Regression): This ensures your study has enough power to find true relationships between variables.
+### B. Sample Size for Association (Multivariable Regression)
+This ensures your study has enough power to find true relationships between variables.
 
 ● **For Logistic Regression (Binary Outcome, e.g., Yes/No)**:
 
