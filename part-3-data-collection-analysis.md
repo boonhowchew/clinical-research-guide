@@ -6,7 +6,7 @@ This is where your plan comes to life. A well-organized process is key to gettin
 * Who, Where, How: Decide who will collect the data (and train them well to avoid interviewer bias), where it will happen (clinic, online), and how (interviews, self-administered forms).
 * **Pilot Study**: Administer the refined questionnaire to a larger sample (e.g., 10-30 individuals) under actual field conditions. This allows for a final check of procedures, and required resources for ascertainment of recruitment rate. This helps you catch glitches before they become major problems.
 
-  ### Data Collection
+  ### Data Collection 
 
 * **Enumerator Training**: Train data collectors thoroughly to ensure they understand the questions, follow the protocol, and administer the survey in a standardized, neutral manner to minimize interviewer bias.
 * **Participant Recruitment and Consent (for physical and face-to-face)**: Approach eligible individuals, explain the study, and obtain informed consent.
