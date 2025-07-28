@@ -13,7 +13,8 @@ This is where your plan comes to life. A well-organized process is key to gettin
 * **Data Administration**: This can be interviewer-administered (good for populations with low literacy) or self-administered (reduces social desirability bias for sensitive topics).
 * **Quality Control**: The researcher or the principal investigator as the field supervisor should perform spot-checks and review completed forms daily for completeness and consistency.
 
-## 3.2 Create a Data Analysis Plan (for a real published example [HERE](https://drive.google.com/file/d/1BvTn5cu9v4rIhfUJDMee8gjc4Z6wyH7v/view?usp=share_link)) 
+## 3.2 Create a Data Analysis Plan 
+For a real published example [HERE](https://drive.google.com/file/d/1BvTn5cu9v4rIhfUJDMee8gjc4Z6wyH7v/view?usp=share_link)) 
 Decide before you collect data how you will analyse it. This prevents bias and ensures you use the right statistical tests. This plan prevents p-hacking and data-dredging. It should detail: • The software to be used (e.g., SPSS, Stata, R). • How variables will be coded and scored (e.g., how to define "good knowledge" vs. "poor knowledge" from a series of questions). • The specific statistical tests that will be used to address each research objective.
 
 ### Your Plan Should Include:
