@@ -36,7 +36,7 @@ Examples of Operational Sampling Frames:
 
 Guessing isn't enough—you must calculate your sample size before starting. An adequate sample size ensures your findings are precise, reliable, and not due to chance.
 
-You often need to calculate the sample size for two different objectives: prevalence estimation and association analysis (regression), and then use the larger of the two calculations. Below are brief explanations, and for a further elaboration here, use a simple online calculator here on Google’s AI studio (DO NOT ‘mess’ with the codes or its features).
+You often need to calculate the sample size for two different objectives: prevalence estimation and association analysis (regression), and then use the larger of the two calculations. Below are brief explanations, and for a further elaboration here, use a simple online calculator [here](https://aistudio.google.com/app/apps/drive/1IJwsgGqEJJ4IK4CDoIu-QTEkeQAxEjOG?showPreview=true) on Google’s AI studio (DO NOT ‘mess’ with the codes).
 
 ### A. Sample Size for Prevalence Estimation
 
