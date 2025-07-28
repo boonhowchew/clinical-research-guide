@@ -1,7 +1,7 @@
 # Box 1: Prevalence & Incidence
 
 {% hint style="info" %}
-Prevalence measures the proportion of a population that has a specific disease or condition. It provides a snapshot of the existing disease burden on a population, which is crucial for resource allocation and healthcare planning. While the term prevalence proportion is technically more precise, "prevalence" is commonly used.
+**Prevalence** measures the proportion of a population that has a specific disease or condition. It provides a snapshot of the existing disease burden on a population, which is crucial for resource allocation and healthcare planning. While the term prevalence proportion is technically more precise, "prevalence" is commonly used.
 
 • **Point Prevalence**: This is the most common measure. It quantifies the proportion of individuals who have a disease at a single point in time. If the term "prevalence" is used without further specification, it generally implies point prevalence.
 
@@ -13,9 +13,9 @@ For example, if 138 out of 2,000 individuals in a general practice are being tre
 
 It's important to note that prevalence is a proportion, not a rate. It is dimensionless and ranges from 0 to 1 (or 0% to 100%). The term "prevalence rate" is a misnomer because the denominator does not involve a measure of time. Prevalence is influenced by both the incidence of new cases and the average duration of the condition.
 
-\_\_\_
 
-Incidence measures the occurrence of new cases of a disease in a population over a specified period. It is the key measure for investigating the etiology of a disease, evaluating preventive measures, and determining risk. There are two main measures of incidence.
+
+**Incidence** measures the occurrence of new cases of a disease in a population over a specified period. It is the key measure for investigating the etiology of a disease, evaluating preventive measures, and determining risk. There are two main measures of incidence.
 
 • **Cumulative Incidence (Risk)**: This is the proportion of an initially disease-free population that develops the disease over a specified period. It represents the average risk of developing the disease during that time frame.
 
@@ -41,3 +41,5 @@ The Relationship Between **Prevalence** and **Incidence** In a stable population
 
 This equation highlights that a high prevalence can be due to a high incidence (many new cases) or a long disease duration (slow cure or death rate), or both. For example, the high prevalence of hypertension is due to both a high incidence and its chronic, lifelong nature. Conversely, the common cold has a high incidence but a low prevalence because its duration is short.
 {% endhint %}
+
+Further reading: Tenny S, Hoffman MR. Prevalence. \[Updated 2023 May 22]. In: StatPearls \[Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK430867/&#x20;
