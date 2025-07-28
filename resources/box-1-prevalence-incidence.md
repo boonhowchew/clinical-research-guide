@@ -42,4 +42,4 @@ The Relationship Between **Prevalence** and **Incidence** In a stable population
 This equation highlights that a high prevalence can be due to a high incidence (many new cases) or a long disease duration (slow cure or death rate), or both. For example, the high prevalence of hypertension is due to both a high incidence and its chronic, lifelong nature. Conversely, the common cold has a high incidence but a low prevalence because its duration is short.
 {% endhint %}
 
-Further reading: Tenny S, Hoffman MR. Prevalence. \[Updated 2023 May 22]. In: StatPearls \[Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK430867/&#x20;
+Further reading: Tenny S, Hoffman MR. Prevalence. In: StatPearls \[Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: [https://www.ncbi.nlm.nih.gov/books/NBK430867/](https://www.ncbi.nlm.nih.gov/books/NBK430867/). \[Updated 2023 May 22].&#x20;
