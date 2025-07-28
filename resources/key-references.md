@@ -15,3 +15,4 @@ Key References & Further Reading
   * CASP Checklists (Critical Appraisal Skills Programme): A set of tools to help you critically appraise different types of research studies, including cross-sectional studies. ([www.casp-uk.net](http://www.casp-uk.net/))
   * Journal of Clinical Epidemiology’s Effective Writing and Publishing Scientific Papers series, 2013 to 2014 ([https://scientificwritingtips.wordpress.com/the-written-series/the-written-series/](https://scientificwritingtips.wordpress.com/the-written-series/the-written-series/))
 
+  * Click HERE for a NotebookLM that is to assist further queries on the best practices to plan and conduct a prevalence study.
