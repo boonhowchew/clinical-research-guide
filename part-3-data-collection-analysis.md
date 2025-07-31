@@ -20,12 +20,12 @@ For a real published example [HERE](https://drive.google.com/file/d/1BvTn5cu9v4r
 1. **Descriptive Statistics**: To summarize your sample's characteristics (e.g., means, percentages) and your main outcomes (e.g., prevalence with 95% confidence intervals). Data quality and distribution to use the right parametric or non-parametric tests.
 2. **Outliers and Missing Data**: A plan for how to handle it.
 3. **Bivariate Analysis**: To explore initial associations between two variables.
-  * Chi-square test: For two categorical variables (e.g., education level and vaccination status).
-  * t-test/ANOVA: To compare average scores between groups (e.g., mean knowledge score by gender).
+    * Chi-square test: For two categorical variables (e.g., education level and vaccination status).
+    * t-test/ANOVA: To compare average scores between groups (e.g., mean knowledge score by gender).
 
 4. **Multivariable Analysis**: To identify predictors of an outcome while controlling for other factors. Include model diagnostics (see further elaboration).
-  * Logistic Regression: For binary outcomes (e.g., good vs. poor practice).
-  * Linear Regression: For continuous outcomes (e.g., predicting a quality-of-life score).
+    * Logistic Regression: For binary outcomes (e.g., good vs. poor practice).
+    * Linear Regression: For continuous outcomes (e.g., predicting a quality-of-life score).
 
 ## 3.3 Data Analysis, Statistical Assumptions and Model Diagnostics 
 Statistical analysis is essential for producing valid and precise research results. To achieve this, you must understand your data's characteristics and ensure that the underlying assumptions of your statistical models are met. This guide will walk you through describing your data before moving to the key assumptions and diagnostic checks for multiple logistic and linear regression, which are foundational pillars for ensuring the reliability and interpretability of your findings. For elaboration of the following [HERE](https://drive.google.com/file/d/1HkkE10fEqBEMVdSAZo1naFm1jABaBOGz/view?usp=share_link).
