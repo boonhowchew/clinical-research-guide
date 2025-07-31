@@ -30,6 +30,7 @@ For a real published example [HERE](https://drive.google.com/file/d/1BvTn5cu9v4r
 ## 3.3 Data Analysis, Statistical Assumptions and Model Diagnostics 
 Statistical analysis is essential for producing valid and precise research results. To achieve this, you must understand your data's characteristics and ensure that the underlying assumptions of your statistical models are met. This guide will walk you through describing your data before moving to the key assumptions and diagnostic checks for multiple logistic and linear regression, which are foundational pillars for ensuring the reliability and interpretability of your findings. For elaboration of the following [HERE](https://drive.google.com/file/d/1HkkE10fEqBEMVdSAZo1naFm1jABaBOGz/view?usp=share_link).
 
+
   1. **Descriptive Statistics**: The First Look This is the initial, essential step to characterize your data before modelling.
   * Core Measures: Assess central tendency (mean, median), spread (standard deviation), and distribution.
   * *Normality Checks*:
@@ -38,6 +39,7 @@ Statistical analysis is essential for producing valid and precise research resul
     * Formal Tests: Use Shapiro-Wilk or Kolmogorov-Smirnov with caution, as they are sensitive to sample size.
 
   * *Outlier Detection*: Identify outliers using boxplots, where points beyond 1.5 times the IQR are flagged.
+
 
   2. **Multiple Logistic Regression**: For Binary Outcomes This model is used for outcomes with two categories (e.g., yes/no).
   * Key Assumptions:
@@ -49,6 +51,7 @@ Statistical analysis is essential for producing valid and precise research resul
   * *Diagnostics*:
     * Model Fit: Assess calibration (accuracy of predictions) and discrimination (ability to distinguish between outcomes).
     * Outliers: Investigate standardised Pearson residuals greater than 2.0.
+
 
   3. **Multiple Linear Regression**: For Continuous Outcomes This model is used for continuous outcome variables.
   * Key Assumptions:
