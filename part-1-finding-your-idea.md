@@ -2,7 +2,8 @@
 
 The first, and often most challenging, step is identifying a research topic. This involves spotting gaps in current knowledge and shaping a broad idea into a focused, feasible research question. For a further elaboration [HERE](https://drive.google.com/file/d/1fxx5Lif0qDs4GTF5mYaHloyDzVj3Kupb/view?usp=share_link).
 
-## 1.1 Identify a Research Gap 
+## 1.1 Identify a Research Gap
+
 A research gap is an area that lacks sufficient exploration, has unresolved issues, or shows contradictory findings in existing literature. Identifying a gap ensures your work contributes something new and valuable.
 
 Types of Research Gaps to Look For:
@@ -14,13 +15,15 @@ Types of Research Gaps to Look For:
 * **Practical Gaps**: A disconnect between theoretical knowledge and its real-world application, like testing effective teaching strategies in actual classrooms.
 
 Techniques for Finding Gaps:
+
 * **Comprehensive Literature Review**: Read current research papers, systematic reviews, and clinical guidelines to find unanswered questions or outdated findings. Use tools like PubMed and Google Scholar. Artificial intelligence (AI) tools are emerging fast and worth mastering. At the time of the writing of this guide, tools such as [Elicit AI](https://elicit.com/), [Silvi AI](https://www.silvi.ai/), [DistillerSR](https://www.distillersr.com/), [EPPI-Reviewer](https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=2914), [Consensus AI](https://consensus.app/), and other assisting tools such as [Perplexity AI](https://www.perplexity.ai/), [Undermind AI](https://www.undermind.ai/), [Evidence Review Accelerator (TERA)](https://tera-tools.com/), [Covidence](https://www.covidence.org/) and [Rayyan](https://www.rayyan.ai/).
 * **Examine Study Limitations**: The "limitations" section of published articles often points directly to areas needing further research.
 * **Observe Clinical Practice**: Notice patterns in patient presentation, treatment responses, or healthcare access that don't align with existing literature.
 * **Engage in Discussions**: Talk with peers, mentors, and experts at conferences or journal clubs to brainstorm and validate potential research ideas.
 
 ## 1.2 Understanding Your Study's Foundation: Theoretical and Conceptual Frameworks
-After conducting a thorough literature review, the next step is to synthesize that knowledge into a coherent structure that will guide your study. This is done by developing a theoretical or conceptual framework. These frameworks serve as the critical link between the existing literature and your own research, helping to clarify your research problem, provide scientific support or justify your study, and provide a direct path to formulating your research questions and objectives. See some examples HERE.
+
+After conducting a thorough literature review, the next step is to synthesize that knowledge into a coherent structure that will guide your study. This is done by developing a theoretical or conceptual framework. These frameworks serve as the critical link between the existing literature and your own research, helping to clarify your research problem, provide scientific support or justify your study, and provide a direct path to formulating your research questions and objectives. See some examples [HERE](https://drive.google.com/file/d/1a_8mxlcV5jVlJBhavx6Alhr8lXOVa-2H/view?usp=sharing).
 
 **What is a Theoretical Framework?**
 
@@ -28,11 +31,12 @@ A Theoretical Framework is the specific, established theory that provides the ma
 
 **What is a Conceptual Framework?**
 
-A Conceptual Framework is broader and is often what researchers develop for their specific study. It is the researcher’s synthesis of relevant ideas that explains the relationships between the key variables in the study. While a theoretical framework is based on one formal theory, a conceptual framework can be built from several sources: 
-  * It might integrate parts of one or more formal theories.
-  * It can include concepts and models from different fields (e.g., combining psychological theories with sociological observations).
-  * It incorporates empirical findings and best practices from your literature review.
-  
+A Conceptual Framework is broader and is often what researchers develop for their specific study. It is the researcher’s synthesis of relevant ideas that explains the relationships between the key variables in the study. While a theoretical framework is based on one formal theory, a conceptual framework can be built from several sources:
+
+* It might integrate parts of one or more formal theories.
+* It can include concepts and models from different fields (e.g., combining psychological theories with sociological observations).
+* It incorporates empirical findings and best practices from your literature review.
+
 Essentially, the conceptual framework is your study's specific model. It shows how your research question fits into the bigger picture, illustrates the expected relationships between your variables (e.g., factors influencing academic success or patient self-management), and makes your assumptions explicit. It is often represented visually as a diagram that supplements a narrative explanation, showing exactly what you plan to study and how you believe the different factors are connected.
 
 **The Evolution of Frameworks Through Research**
@@ -41,11 +45,12 @@ While frameworks provide the initial structure for a study, they are not always 
 
 For instance, if your data reveals a new, critical factor that the original theory didnot account for, or shows that an established relationship between variables does not hold true in a specific context, this may suggest the theory needs updating. This process is fundamental to scientific advancement—it is how theories evolve and become more accurate over time. While this is less common in simple prevalence surveys, in-depth analytical studies or qualitative research can generate new insights that lead to the evolution of a conceptual framework into a new, more refined theory.
 
+## 1.3 Formulate a Clear Research Question and Objectives
 
-## 1.3 Formulate a Clear Research Question and Objectives 
 A great study starts with a great question, that is well-informed of the exisitng corpus of knowledge and evidence, and of course the lack of it. For a prevalence study, your question should be clear, focused, and relevant.
 
 The **PICO**/**PECOTS** Structure:
+
 * **Population**: Who are you studying? (e.g., primary school teachers, elderly in rural areas)
 * **Intervention**/**Exposure**: What are you measuring? (e.g., depression, smoking habits)
 * **Comparison** or **Context**: Is there a comparison group? Or, what is the specific context of the issue?
