@@ -31,7 +31,7 @@ A Theoretical Framework is the specific, established theory that provides the ma
 
 **What is a Conceptual Framework?**
 
-A Conceptual Framework is broader and is often what researchers develop for their specific study. It is the researcher’s synthesis of relevant ideas that explains the relationships between the key variables in the study. While a theoretical framework is based on one formal theory, a conceptual framework can be built from several sources:
+A Conceptual Framework is broader and is often what researchers develop for their specific study. It is the researcher’s synthesis of relevant ideas that explains the relationships between the key variables in the study. While a theoretical framework is based on one formal theory, a conceptual framework can be built from several sources, if needed (often so) to explain all the important factors in a new research:
 
 * It might integrate parts of one or more formal theories.
 * It can include concepts and models from different fields (e.g., combining psychological theories with sociological observations).
@@ -41,9 +41,10 @@ Essentially, the conceptual framework is your study's specific model. It shows h
 
 **The Evolution of Frameworks Through Research**
 
-While frameworks provide the initial structure for a study, they are not always static. One of the most significant contributions a study can make is to challenge or refine an existing theory. A theoretical framework can be modified when your research findings consistently and robustly contradict the predictions of the original theory.
+While frameworks provide the initial structure for a study, they are not always static. One of the most significant contributions a study can make is to challenge or refine an existing theory. A theoretical framework *can be modified* when your research findings consistently and robustly contradict the predictions of the original theory.
 
-For instance, if your data reveals a new, critical factor that the original theory didnot account for, or shows that an established relationship between variables does not hold true in a specific context, this may suggest the theory needs updating. This process is fundamental to scientific advancement—it is how theories evolve and become more accurate over time. While this is less common in simple prevalence surveys, in-depth analytical studies or qualitative research can generate new insights that lead to the evolution of a conceptual framework into a new, more refined theory.
+For instance, if your data reveals a new, critical factor that the original theory didnot account for, or shows that an established relationship between variables does not hold true in a specific context, this may suggest the theory needs updating. This process is fundamental to scientific advancement, it is how theories evolve and become more accurate over time. While this is less common in simple prevalence surveys, in-depth analytical studies or qualitative research can generate new insights that lead to the evolution of a conceptual framework into a new, more refined theory.
+
 
 ## 1.3 Formulate a Clear Research Question and Objectives
 
