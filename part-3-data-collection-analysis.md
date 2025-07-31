@@ -38,7 +38,7 @@ Statistical analysis is essential for producing valid and precise research resul
     * Coefficients: Check that skewness and kurtosis values are between -1 and +1.
     * Formal Tests: Use Shapiro-Wilk or Kolmogorov-Smirnov with caution, as they are sensitive to sample size.
 
-  * *Outlier Detection*: Identify outliers using boxplots, where points beyond 1.5 times the IQR are flagged.
+    * *Outlier Detection*: Identify outliers using boxplots, where points beyond 1.5 times the IQR are flagged.
 
 
   2. **Multiple Logistic Regression**: For Binary Outcomes This model is used for outcomes with two categories (e.g., yes/no).
@@ -48,9 +48,9 @@ Statistical analysis is essential for producing valid and precise research resul
     * No Multicollinearity: Check that the VIF is less than 2.5.
     * Adequate Sample Size: Ensure at least 10-20 events per variable (EPV) to prevent overfitting.
 
-  * *Diagnostics*:
-    * Model Fit: Assess calibration (accuracy of predictions) and discrimination (ability to distinguish between outcomes).
-    * Outliers: Investigate standardised Pearson residuals greater than 2.0.
+    * *Diagnostics*:
+      * Model Fit: Assess calibration (accuracy of predictions) and discrimination (ability to distinguish between outcomes).
+      * Outliers: Investigate standardised Pearson residuals greater than 2.0.
 
 
   3. **Multiple Linear Regression**: For Continuous Outcomes This model is used for continuous outcome variables.
@@ -60,9 +60,9 @@ Statistical analysis is essential for producing valid and precise research resul
     * No Multicollinearity: VIF should be less than 2.5.
     * Sufficient Sample Size: A common guideline is 20 subjects per variable.
 
-  * **Influential Outliers**:
-    * Check standardised residuals (values > 3 are extreme).
-    * Assess Cook's Distance (values > 1 or > 4/n are influential).
+    * **Influential Outliers**:
+      * Check standardised residuals (values > 3 are extreme).
+      * Assess Cook's Distance (values > 1 or > 4/n are influential).
 
 ## 3.4 Planning for Success: 
 Measures to Take Before You Analyse Proactive planning is key to mitigating statistical issues and enhancing the credibility of your research.
