@@ -1,4 +1,4 @@
-# Part 4: Ethics, Interpretation, and Reporting
+# Part 4: Ethics & Reporting
 
 ### 4.1 Ensure Ethical Conduct
 
@@ -10,7 +10,7 @@ Behind every data point is a person. Ethical conduct is non-negotiable.
 
 ### 4.2 Interpret and Discuss Your Results
 
-A number is just a number until you explain what it means. For content guide in the research proposal [here](https://drive.google.com/file/d/1HInSYC0M81OhANMIBBqCcI7r_gJmsJqO/view?usp=share_link).
+A number is just a number until you explain what it means. For content guide in the research proposal [here](https://drive.google.com/file/d/14_7a6IB8dNycSwBHNhEyKrJ4i46flsq2/view?usp=share_link).
 
 * **Interpretation of Results**: Translate statistical findings back into meaningful health context. For example, a statistically significant association (P < 0.05) between low education and poor knowledge suggests that health intervention should target this group with simpler, more accessible materials.
 * **Precision**: How precise is your estimate? Look at the 95% confidence intervals.
