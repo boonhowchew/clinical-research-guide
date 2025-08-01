@@ -1,3 +1,5 @@
+{% hint style="info" %}
+
 ### Crafting a Problem Statement in Clinical Research
 
 Think of your entire research project as a building. The problem statement is its foundation and blueprint combined. It is the single most critical element that sets the stage for everything that follows, from your methods to your conclusions. It is not merely a question but a concise, compelling argument that identifies a critical issue, demonstrates its urgency, and maps out a clear gap in our current knowledge that your study will address.
