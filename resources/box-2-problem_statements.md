@@ -58,7 +58,7 @@ In summary, a robust problem statement is a conceptually rigorous narrative that
 
 ***
 
-### **Example: A Prevalence Study using a Cross-Sectional Design**
+### **Example 1: A Prevalence Study using a Cross-Sectional Design**
 
 **Research Area:** Glycemic Control in Type 2 Diabetes (T2DM) with co-existing Chronic Kidney Disease (CKD) in a Primary Care Setting.
 
