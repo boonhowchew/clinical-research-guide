@@ -30,7 +30,7 @@ The [Box Information 1](resources/box-1-prevalence-incidence.md) below defines a
 
 Imagine a bathtub. This bathtub represents a specific population (e.g., a city, a country, or a specific patient group). **Prevalence** is the total amount of water in the tub at a specific moment. It represents all current cases (both old and new) of a disease in the population. If you want to know how many people have the disease right now, you are measuring the prevalence. It's a "snapshot" of the disease burden. **Incidence** is the water flowing into the tub from the faucet. It represents the new cases of the disease that appear in the population over a period of time. Incidence tells you how quickly the disease is spreading or occurring. Cure and Death are the water leaving the tub through the drain. When individuals are cured of the disease or die, they are no longer counted in the prevalence numbers.
 
-![The bathub analogy of incidence and prevalence](./assets/bathub_analogy.png)
+<img src="./assets/bathub_analogy.png" alt="The bathub analogy of incidence and prevalence" width="50%">
 
 For samples of published research proposals as journal protocol papers by the author [here](https://drive.google.com/drive/folders/1c4OavVFVQElKiW73voaSRbi792nwLt3U?usp=share_link).
 
