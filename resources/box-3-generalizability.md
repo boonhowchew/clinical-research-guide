@@ -34,3 +34,5 @@ While the sampling method determines _who_ is in your study, the sample size det
 * It produces imprecise estimates with wide confidence intervals, making the results of little practical use for the broader population.
 
 Calculating the correct sample size ensures that your study's results are precise and reliable enough to be considered for generalization.
+
+{% endhint %}
