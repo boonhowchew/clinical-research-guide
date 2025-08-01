@@ -11,6 +11,7 @@
 
 * [Key References](resources/key-references.md)
 * [Box 1: Prevalence & Incidence](resources/box-1-prevalence-incidence.md)
-* [Box 2: Generalizability](resources/box-2-generalizability.md)
+* [Box 2: Problem Statements](resources/box-2-problem_statements.md)
+* [Box 3: Generalizability](resources/box-2-generalizability.md)
 * [Examples: Sample Size](resources/examples-sample-size.md)
 * [About](about.md)
