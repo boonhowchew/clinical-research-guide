@@ -36,5 +36,6 @@ Imagine a bathtub. This bathtub represents a specific population (e.g., a city, 
 <br>
 
 For samples of published research proposals as journal protocol papers by the author [here](https://drive.google.com/drive/folders/1c4OavVFVQElKiW73voaSRbi792nwLt3U?usp=share_link).
+<br>
 
 **Key Message**: It is essential to underscore that no research, whether a simple prevalence survey or a nationwide KAP study, can substitute scientific rigor with good intentions alone. The essence of scientific inquiry lies in the integrity and competence of those who conduct it. A research idea, no matter how socially relevant or timely, must pass both the common-sense test and the standards of sound methodology. There can be no tolerance for poorly conceptualized, sloppily executed, or ethically compromised research. Every stage of the process, from topic identification to data analysis, must reflect a commitment to methodological soundness, critical thinking, and academic honesty.
