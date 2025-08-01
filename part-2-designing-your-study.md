@@ -8,7 +8,7 @@ Your study's credibility rests on who you study and how you select them. For fur
 
 In many clinical research settings, a pre-existing, comprehensive list of the entire target population, a classic sampling frame, is rarely available. The challenge is that the population is often dynamic (e.g., patients who will change in their disease status, clinic attendance, place of residence, etc). Therefore, the concept of a sampling frame must be adapted.
 
-For clinical studies, the sampling frame becomes the operational definition of the source population from which you will recruit participants. It is the specific group of accessible individuals who meet your eligibility criteria over a defined period. Defining this frame precisely is critical, as inaccuracies or omissions of a certain pattern during recruitment could miss an opportunity of efficiency in sampling methods, or be a major source of selection bias, and can limit the generalizability of your findings (see [Box Information 2](resources/box-2-generalizability.md) for more on generalizability).
+For clinical studies, the sampling frame becomes the operational definition of the source population from which you will recruit participants. It is the specific group of accessible individuals who meet your eligibility criteria over a defined period. Defining this frame precisely is critical, as inaccuracies or omissions of a certain pattern during recruitment could miss an opportunity of efficiency in sampling methods, or be a major source of selection bias, and can limit the generalizability of your findings (see [Box Information 3](resources/box-3-generalizability.md) for more on generalizability).
 
 Examples of Operational Sampling Frames:
 
