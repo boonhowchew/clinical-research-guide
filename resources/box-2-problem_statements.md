@@ -88,3 +88,5 @@ Sepsis remains a leading cause of in-hospital mortality worldwide and is respons
 
 **(The Knowledge Gap)**
 Current standard diagnostic tools, such as the Systemic Inflammatory Response Syndrome (SIRS) criteria, are known to have poor specificity, leading to both the over-treatment of non-infected patients with broad-spectrum antibiotics and, more dangerously, missed or delayed diagnoses in true sepsis cases. While biomarkers like procalcitonin (PCT) have been introduced to aid diagnosis, their real-world clinical utility for reliably differentiating bacterial sepsis from non-infectious inflammatory states in undifferentiated ED patients remains debated, and its performance has not been validated in our local patient population.
+
+{% endhint %}
