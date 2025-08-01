@@ -1,4 +1,4 @@
-# Part 1: Finding Your Idea and Research Topic
+# Part 1: Finding Your Idea
 
 The first, and often most challenging, step is identifying a research topic. This involves spotting gaps in current knowledge and shaping a broad idea into a focused, feasible research question. For a further elaboration [HERE](https://drive.google.com/file/d/1fxx5Lif0qDs4GTF5mYaHloyDzVj3Kupb/view?usp=share_link).
 
@@ -22,17 +22,18 @@ Techniques for Finding Gaps:
 * **Engage in Discussions**: Talk with peers, mentors, and experts at conferences or journal clubs to brainstorm and validate potential research ideas.
 
 ## 1.2 From Research Gap to Research Rationale
+
 Once you have identified a research topic, such as the link between internet addiction and mental health among students, and pinpointed a potential research gap, the next crucial step is to build a clear rationale for your study. This process involves more than just spotting a gap, it requires you to challenge the underlying assumptions in the existing literature to highlight why your research is needed and what new insights it can offer.
 
 To articulate a strong motivation for your study, you should clearly explain:
+
 * **What** your research adds to the current understanding of the topic (i.e., its core contribution).
 * **How** you plan to advance the literature (i.e., your research approach).
 * **Why** your findings will be valuable to other researchers and practitioners in the field.
 
-This step, combined with motivating the research by outlining the what (contribution), how (approach), and why (value), establishes the rationale and importance of the study. Together, this gap identification and justification form the core of a research proposal's **Problem Statement**. A strong problem statement is a concise description of a health issue that needs to be addressed through investigation. It is a declarative statement that frames the problem in a way that highlights a clear gap in knowledge and provides a compelling rationale for the study. Its primary purpose is to articulate the five "**W's**" of the health problem: What is the issue, who is affected, where and when is it occurring, and why is it important to study. (see Box Information 2 for elaboration on and examples of Problems Statements)
+This step, combined with motivating the research by outlining the what (contribution), how (approach), and why (value), establishes the rationale and importance of the study. Together, this gap identification and justification form the core of a research proposal's **Problem Statement**. A strong problem statement is a concise description of a health issue that needs to be addressed through investigation. It is a declarative statement that frames the problem in a way that highlights a clear gap in knowledge and provides a compelling rationale for the study. Its primary purpose is to articulate the five "**W's**" of the health problem: What is the issue, who is affected, where and when is it occurring, and why is it important to study. (see [Box Information 2](resources/box-2-problem_statements.md) for elaboration on and examples of Problems Statements)
 
 The above process of justifying your study naturally leads to theorization, which is the step where you connect your research gap to a structured plan for finding an answer. You do this by selecting an established theory to serve as an analytical lens, which is also known as your study's theoretical framework. Using an established theory provides the necessary structure to analyze the problem, develop your research questions, and guide your investigation, ensuring your study is built on a solid scientific foundation.
-
 
 ## 1.3 Understanding Your Study's Foundation: Theoretical and Conceptual Frameworks
 
@@ -54,10 +55,9 @@ Essentially, the conceptual framework is your study's specific model. It shows h
 
 **The Evolution of Frameworks Through Research**
 
-While frameworks provide the initial structure for a study, they are not always static. One of the most significant contributions a study can make is to challenge or refine an existing theory. A theoretical framework *can be modified* when your research findings consistently and robustly contradict the predictions of the original theory.
+While frameworks provide the initial structure for a study, they are not always static. One of the most significant contributions a study can make is to challenge or refine an existing theory. A theoretical framework _can be modified_ when your research findings consistently and robustly contradict the predictions of the original theory.
 
 For instance, if your data reveals a new, critical factor that the original theory didnot account for, or shows that an established relationship between variables does not hold true in a specific context, this may suggest the theory needs updating. This process is fundamental to scientific advancement, it is how theories evolve and become more accurate over time. While this is less common in simple prevalence surveys, in-depth analytical studies or qualitative research can generate new insights that lead to the evolution of a conceptual framework into a new, more refined theory.
-
 
 ## 1.4 Formulate a Clear Research Question and Objectives
 
