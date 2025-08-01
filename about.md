@@ -2,7 +2,7 @@
 
 ### Acknowledgements
 
-The author wishes to acknowledge the assistance of Gemini 2.5 Pro from Google and ChatGPT from OpenAI in the development of this article from drafting, structuring, and synthesizing with the literature. The foundational knowledge, core principles, and illustrative examples presented herein were developed by analyzing a curated collection of scholarly papers, textbooks, and reference documents within the Google NotebookLM platform. This collaborative approach between the author and AI technology facilitated the final creation of this guide.
+The author wishes to acknowledge the assistance of Gemini 2.5 Pro from Google and ChatGPT from OpenAI in the development of this article from drafting, structuring, and synthesizing with the literature. The image was created with Microsoft copilot. The foundational knowledge, core principles, and illustrative examples presented herein were developed by analyzing a curated collection of scholarly papers, textbooks, and reference documents within the Google NotebookLM platform. This collaborative approach between the author and AI technology facilitated the final creation of this guide.
 
 ***
 
