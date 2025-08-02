@@ -25,6 +25,11 @@ Techniques for Finding Gaps:
 
 A literature review is the methodical process of mastering the evidence, but it's important to know that it is a dynamic and iterative cycle, not a straight path. For example, a preliminary search for evidence might lead you to refine your initial question, just as synthesizing your findings can reveal unexpected gaps that require you to search again.
 
+<p align="center">
+  <img src="./assets/review-cycle.png" alt="Review of Iterative nature" width="85%">
+</p>
+<br>
+
 This dynamic cycle involves several core activities:
 
 * Step 1: Starting with a Clinical Observation and Formulating a Focused Question
