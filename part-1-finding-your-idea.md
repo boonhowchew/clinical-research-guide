@@ -39,7 +39,9 @@ This dynamic cycle involves several core activities:
 * Step 6: Identifying Gaps and Clinical Relevance
 * Step 7: Constructing Your Argument and Positioning Your Research
 
-The term "**literature review**" itself represents a spectrum of methodologies. When used generally, it often refers to a **Narrative Review**, which tells the story of the existing research to build an argument for a new study. As your research questions become more focused and the need for rigor increases, other methodologies come into play. A **Systematic Review**, for instance, uses a strict protocol to answer a specific question like "_Is Drug A better than Drug B?_", while a **Scoping Review** maps the extent of research in a broad field to see what is known and where the major gaps lie. See the table below on the defining features of these three common types of review.
+The detailed guide [HERE](resources/literature-review.md) will further elaborate on each of the seven steps, helping you navigate the cycles of the literature review with confidence.
+
+The term "**literature review**" itself represents a spectrum of methodologies. When used generally, it often refers to a **Narrative Review**, which tells the story of the existing research to build an argument for a new study. As your research questions become more focused and the need for rigor increases, other methodologies come into play. A **Systematic Review**, for instance, uses a strict protocol to answer a specific question like "_Is Drug A better than Drug B?_", while a **Scoping Review** maps the extent of research in a broad field to see what is known and where the major gaps lie. See the table below on the defining features of these three common types of review. 
 
 <br>
 
@@ -54,10 +56,6 @@ The term "**literature review**" itself represents a spectrum of methodologies. 
 | **Synthesis** | Narrative synthesis, organizing findings into themes. | A narrative synthesis or "charting" of the data, where key concepts are mapped out and summarized thematically. No meta-analysis. | Can be a narrative synthesis, but often involves a meta-analysis (statistical combination of results) if data permit. |
 | **Reporting** | A chapter in a thesis or a section in a paper. | Published as a standalone paper following specific guidelines like PRISMA-ScR. | Published as a standalone paper that follows strict reporting guidelines like the PRISMA statement. |
 | **Reviewer(s)** | Often a subjective assessment by a single expert. | Can be done by one reviewer, but at least two are recommended to reduce bias. | Minimum of two independent reviewers required for screening and data extraction to minimize bias. A third reviewer resolves conflicts. |
-
-<br>
-
-Understanding these differences and embracing the iterative nature of the process is crucial. The detailed guide [HERE](resources/literature-review.md) will further elaborate on each of the seven steps, helping you navigate the cycles of the literature review with confidence.
 
 <br>
 
