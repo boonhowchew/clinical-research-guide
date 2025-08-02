@@ -72,8 +72,7 @@ Finally, use the story you have uncovered to build a compelling and evidence-bas
 ---
 
 ## Summary
-
-> In essence, this 7-step guide provides a structured and iterative framework to move from a preliminary research idea to a fully justified study. The process begins by translating a potential research gap whether identified from clinical practice or from existing literature, into a focused `PECOTS` question. You then systematically search for, screen, and critically appraise the relevant evidence, embracing the iterative nature of research where initial findings may lead you to refine your approach. This rigorous synthesis does more than just summarize what is known, it allows you to confirm, precisely define, and articulate the clinical relevance of the research gap. Ultimately, completing these steps equips you with a powerful, evidence-based argument, positioning your own study to make a meaningful contribution to the field.
+In essence, this 7-step guide provides a structured and iterative framework to move from a preliminary research idea to a fully justified study. The process begins by translating a potential research gap whether identified from clinical practice or from existing literature, into a focused `PECOTS` question. You then systematically search for, screen, and critically appraise the relevant evidence, embracing the iterative nature of research where initial findings may lead you to refine your approach. This rigorous synthesis does more than just summarize what is known, it allows you to confirm, precisely define, and articulate the clinical relevance of the research gap. Ultimately, completing these steps equips you with a powerful, evidence-based argument, positioning your own study to make a meaningful contribution to the field.
 
 
 {% hint style="info" %}
