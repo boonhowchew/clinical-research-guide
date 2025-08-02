@@ -23,7 +23,7 @@ Techniques for Finding Gaps:
 
 ## 1.2 Literature Reviews in Clinical Research
 
-A literature review is the methodical process of mastering the evidence, but it's important to know that it is a dynamic and iterative cycle, not a straight path. For example, a preliminary search for evidence might lead you to refine your initial question, just as synthesizing your findings can reveal unexpected gaps that require you to search again.
+A literature review is the methodical process of mastering the evidence, but it's important to know that it is a dynamic and iterative cycle in the early effort, and after the review completion especially in fast evolving fields. It is not a straight path as some might have thought. For example, a preliminary search for evidence might lead you to refine your initial question, just as synthesizing your findings can reveal unexpected gaps that require you to search again.
 
 A literature review is a critical and sophisticated task. Many people think it's just a long summary of everything they've read. The key shift in thinking is from **summarizing** to **synthesizing and creating an argument**. Think of it like a physician's consultation for a patient. You don't just list the patient's individual test results (a summary). You interpret them, connect them to the patient's history, identify what's missing, and present a coherent clinical opinion and a plan (a synthesis and argument). A literature review does the same for a research topic.
 
@@ -49,10 +49,6 @@ This dynamic cycle involves several core activities:
 * Step 5: Extracting and Synthesizing the Findings
 * Step 6: Identifying Gaps and Clinical Relevance
 * Step 7: Constructing Your Argument and Positioning Your Research
-
-<p align="center">
-  <img src="./assets/review-cycle.png" alt="Review of Iterative nature" width="85%">
-</p>
 
 The detailed guide [HERE](resources/literature-review.md) will further elaborate on each of the seven steps, helping you navigate the cycles of the literature review with confidence.
 
