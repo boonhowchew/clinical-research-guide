@@ -20,7 +20,7 @@ This elaborates on each step for a literature review focused on _observational e
 
 ## Step 1: Start with a Research Gap and Formulate a Focused Question
 
-Your research journey begins with identifying a potential gap, using the techniques described previously—whether it's a **Knowledge Gap** you found in a systematic review, a **Practical Gap** you observed in your clinical practice in Seri Kembangan, or a **Methodological Gap** noted in the limitations of a key paper. This first step is about translating that initial, sometimes vague, gap into a precise and answerable research question using the `PECOTS` framework.
+Your research journey begins with identifying a potential gap, using the techniques described previously whether it's a **Knowledge Gap** you found in a systematic review, a **Practical Gap** you observed in your clinical practice, or a **Methodological Gap** noted in the limitations of a key paper. This first step is about translating that initial, sometimes vague, gap into a precise and answerable research question using the `PECOTS` framework.
 
 **Action:** State the preliminary research gap you have identified. Then, transform it into a focused `PECOTS` question that you can use to systematically test and explore that gap.
 
@@ -30,7 +30,7 @@ This comprehensive search will now thoroughly investigate the 'gap' you identifi
 
 **Action:** Identify databases (e.g., `PubMed/Medline`, `Scopus`, `CINAHL`), list keywords from your `PECOTS` question, and document your entire search process, including the date and the AI-assisted tools you used (e.g., `Elicit`, `Consensus AI`).
 
-> **Reality Check (Iteration Point):** Your search will confirm whether the gap truly exists. You might find it has already been filled, or that it is different than you first thought. This is a critical finding! Be prepared to **go back to Step 1** to refine or even change your `PECOTS` question.
+> **Reality Check (Iteration Point):** Your search will confirm whether the gap truly exists. You might find it has already been filled, or that it is different than you first thought. This is a critical finding! Be prepared to **go back to Step 1** to refine or even change your `PECOTS` research question.
 
 ## Step 3: Screen and Select Studies Systematically
 
@@ -60,11 +60,11 @@ This is where you pull the key information out of each paper. For observational 
 
 After systematically reviewing the literature, you are no longer working with a preliminary gap. This step is about precisely articulating the specific gap that your comprehensive review has now confirmed and defined.
 
-**Action:** Write a clear summary of the confirmed gap. Classify its type (e.g., is it a **Knowledge Gap** because no local Malaysian data exists? Or a **Methodological Gap** because all prior studies used a weak design?). Most importantly, explain the "so what?"—why filling this gap is clinically relevant to your patients or the healthcare system.
+**Action:** Write a clear summary of the confirmed gap. Classify its type (e.g., is it a **Knowledge Gap** because no local Malaysian data exists? Or a **Methodological Gap** because all prior studies used a weak design?). Most importantly, this would explain the "**so what?** - ***The Why & The What***". 
 
 ## Step 7: Construct Your Argument and Position Your Research
 
-Finally, use the story you have uncovered to build a compelling and evidence-based case for your own research project.
+Finally, use the story you have uncovered to build a compelling and evidence-based case for your own research project. Filling the identified gap with your proposed study objectives and study designs is clinically relevant to your patients or the healthcare system, contributing to the Problem Statement section.
 
 **Action:** Write a clear narrative that flows logically from the initial problem, to the existing evidence, to the **confirmed gap you have precisely defined**, and finally to the justification for your proposed study, which is now positioned to make a valuable new contribution.
 
