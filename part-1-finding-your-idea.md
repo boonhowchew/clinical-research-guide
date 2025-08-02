@@ -22,9 +22,11 @@ Techniques for Finding Gaps:
 * **Engage in Discussions**: Talk with peers, mentors, and experts at conferences or journal clubs to brainstorm and validate potential research ideas.
 
 ## 1.2 Literature Reviews in Clinical Research
+
 A literature review is the methodical process of mastering the evidence, but it's important to know that it is a dynamic and iterative cycle, not a straight path. For example, a preliminary search for evidence might lead you to refine your initial question, just as synthesizing your findings can reveal unexpected gaps that require you to search again.
 
 This dynamic cycle involves several core activities:
+
 * Step 1: Starting with a Clinical Observation and Formulating a Focused Question
 * Step 2: Developing and Executing a Search Strategy
 * Step 3: Screening and Selecting Studies Systematically
@@ -33,9 +35,9 @@ This dynamic cycle involves several core activities:
 * Step 6: Identifying Gaps and Clinical Relevance
 * Step 7: Constructing Your Argument and Positioning Your Research
 
-The term "**literature review**" itself represents a spectrum of methodologies. When used generally, it often refers to a **Narrative Review**, which tells the story of the existing research to build an argument for a new study. As your research questions become more focused and the need for rigor increases, other methodologies come into play. A **Systematic Review**, for instance, uses a strict protocol to answer a specific question like "*Is Drug A better than Drug B?*", while a **Scoping Review** maps the extent of research in a broad field to see what is known and where the major gaps lie.
+The term "**literature review**" itself represents a spectrum of methodologies. When used generally, it often refers to a **Narrative Review**, which tells the story of the existing research to build an argument for a new study. As your research questions become more focused and the need for rigor increases, other methodologies come into play. A **Systematic Review**, for instance, uses a strict protocol to answer a specific question like "_Is Drug A better than Drug B?_", while a **Scoping Review** maps the extent of research in a broad field to see what is known and where the major gaps lie.
 
-Understanding these differences and embracing the iterative nature of the process is crucial. The detailed guide HERE will further elaborate on each of the seven steps, helping you navigate the cycles of research with confidence.
+Understanding these differences and embracing the iterative nature of the process is crucial. The detailed guide [HERE](resources/literature-review.md) will further elaborate on each of the seven steps, helping you navigate the cycles of research with confidence.
 
 ## 1.3 From Research Gap to Research Rationale
 
