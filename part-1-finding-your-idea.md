@@ -28,7 +28,6 @@ A literature review is the methodical process of mastering the evidence, but it'
 <p align="center">
   <img src="./assets/review-cycle.png" alt="Review of Iterative nature" width="85%">
 </p>
-<br>
 
 This dynamic cycle involves several core activities:
 
