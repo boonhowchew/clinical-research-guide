@@ -35,9 +35,27 @@ This dynamic cycle involves several core activities:
 * Step 6: Identifying Gaps and Clinical Relevance
 * Step 7: Constructing Your Argument and Positioning Your Research
 
-The term "**literature review**" itself represents a spectrum of methodologies. When used generally, it often refers to a **Narrative Review**, which tells the story of the existing research to build an argument for a new study. As your research questions become more focused and the need for rigor increases, other methodologies come into play. A **Systematic Review**, for instance, uses a strict protocol to answer a specific question like "_Is Drug A better than Drug B?_", while a **Scoping Review** maps the extent of research in a broad field to see what is known and where the major gaps lie.
+The term "**literature review**" itself represents a spectrum of methodologies. When used generally, it often refers to a **Narrative Review**, which tells the story of the existing research to build an argument for a new study. As your research questions become more focused and the need for rigor increases, other methodologies come into play. A **Systematic Review**, for instance, uses a strict protocol to answer a specific question like "_Is Drug A better than Drug B?_", while a **Scoping Review** maps the extent of research in a broad field to see what is known and where the major gaps lie. See the table below on the defining features of these three common types of review.
+
+<br>
+
+| Feature | *Traditional* Literature Review | Scoping Review (In-between) | Systematic Review |
+| :--- | :--- | :--- | :--- |
+| **Primary Goal** | To provide context, critique literature, and identify gaps for a new study. | To map the extent, range, and nature of research activity; to identify key concepts and gaps in a broad topic area. | To answer a specific, focused research question by identifying, appraising, and synthesizing all relevant evidence. |
+| **Research Question** | Often broad and may evolve during the process. | Broader than a systematic review; focused on mapping concepts. Often uses a framework like PCC (Population, Concept, Context). | Narrow and precisely defined before the review, often using a framework like PICO or PECOTS. |
+| **Search Strategy** | Aims to be comprehensive but is often not fully documented or reproducible. | Systematic and explicit. The search must be documented, comprehensive, and reproducible, similar to a systematic review. | Systematic, explicit, and reproducible. Must document all sources, keywords, and dates. Aims for exhaustive coverage. |
+| **Selection of Studies** | Based on the researcher's judgment. Criteria are often implicit. | Based on pre-defined inclusion/exclusion criteria applied consistently. | Based on pre-defined inclusion/exclusion criteria. Often involves two independent reviewers to reduce bias. |
+| **Documentation** | Not typically reported in a replicable manner. | Meticulously documented. Often reported using a PRISMA-ScR (PRISMA extension for Scoping Reviews) flow diagram. | Meticulously documented. Reported using a PRISMA flow diagram. |
+| **Critical Appraisal** | Critical evaluation is performed, but the method is usually not standardized. | Optional. Quality appraisal is not a mandatory component, as the goal is to map the evidence regardless of its quality. | Mandatory. A formal, standardized quality assessment of each included study using established tools is required. |
+| **Synthesis** | Narrative synthesis, organizing findings into themes. | A narrative synthesis or "charting" of the data, where key concepts are mapped out and summarized thematically. No meta-analysis. | Can be a narrative synthesis, but often involves a meta-analysis (statistical combination of results) if data permit. |
+| **Reporting** | A chapter in a thesis or a section in a paper. | Published as a standalone paper following specific guidelines like PRISMA-ScR. | Published as a standalone paper that follows strict reporting guidelines like the PRISMA statement. |
+| **Reviewer(s)** | Often a subjective assessment by a single expert. | Can be done by one reviewer, but at least two are recommended to reduce bias. | Minimum of two independent reviewers required for screening and data extraction to minimize bias. A third reviewer resolves conflicts. |
+
+<br>
 
 Understanding these differences and embracing the iterative nature of the process is crucial. The detailed guide [HERE](resources/literature-review.md) will further elaborate on each of the seven steps, helping you navigate the cycles of the literature review with confidence.
+
+<br>
 
 ## 1.3 From Research Gap to Research Rationale
 
@@ -52,6 +70,8 @@ To articulate a strong motivation for your study, you should clearly explain:
 This step, combined with motivating the research by outlining the what (contribution), how (approach), and why (value), establishes the rationale and importance of the study. Together, this gap identification and justification form the core of a research proposal's **Problem Statement**. A strong problem statement is a concise description of a health issue that needs to be addressed through investigation. It is a declarative statement that frames the problem in a way that highlights a clear gap in knowledge and provides a compelling rationale for the study. Its primary purpose is to articulate the five "**W's**" of the health problem: What is the issue, who is affected, where and when is it occurring, and why is it important to study. (see [Box Information 2](resources/box-2-problem_statements.md) for elaboration on and examples of Problems Statements)
 
 The above process of justifying your study naturally leads to theorization, which is the step where you connect your research gap to a structured plan for finding an answer. You do this by selecting an established theory to serve as an analytical lens, which is also known as your study's theoretical framework. Using an established theory provides the necessary structure to analyze the problem, develop your research questions, and guide your investigation, ensuring your study is built on a solid scientific foundation.
+
+<br>
 
 ## 1.4 Understanding Your Study's Foundation: Theoretical and Conceptual Frameworks
 
@@ -77,6 +97,8 @@ While frameworks provide the initial structure for a study, they are not always 
 
 For instance, if your data reveals a new, critical factor that the original theory didnot account for, or shows that an established relationship between variables does not hold true in a specific context, this may suggest the theory needs updating. This process is fundamental to scientific advancement, it is how theories evolve and become more accurate over time. While this is less common in simple prevalence surveys, in-depth analytical studies or qualitative research can generate new insights that lead to the evolution of a conceptual framework into a new, more refined theory.
 
+<br>
+
 ## 1.5 Formulate a Clear Research Question and Objectives
 
 A great study starts with a great question, that is well-informed of the exisitng corpus of knowledge and evidence, and of course the lack of it. For a prevalence study, your question should be clear, focused, and relevant.
@@ -90,6 +112,8 @@ The **PICO**/**PECOTS** Structure:
 * **Timing** and **Setting**: When and where? (In review, this is study designs).
 
 A simple formula for a prevalence question is: "What is the prevalence of \[condition] among \[population] in \[setting]?". For an example of the PECOTS worked out [HERE](resources/PECOTS-example.md).
+
+<br>
 
 From Question to Objectives: Your objectives are the specific, measurable steps you'll take to answer your question.
 
