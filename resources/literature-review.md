@@ -2,7 +2,7 @@
 
 This elaborates on each step for a literature review focused on _observational evidence_. It builds upon the techniques you've just learned for identifying a potential research gap.
 
-**Crucially, this process is a cycle, not a straight line.** The following steps are the formal method to explore, confirm, and precisely define the gap you have preliminarily identified. Be prepared to revisit earlier steps as you learn more.
+**Crucially, this process is often a cycle, not a straight line.** The following steps are the formal method to explore, confirm, and precisely define the gap you have preliminarily identified. Be prepared to revisit earlier steps as you learn more.
 
 ---
 
@@ -72,4 +72,4 @@ Finally, use the story you have uncovered to build a compelling and evidence-bas
 
 ## Summary
 
-> In essence, this 7-step guide provides a structured and iterative framework to move from a preliminary research idea to a fully justified study. The process begins by translating a potential research gap—whether identified from clinical practice in Malaysia or from existing literature—into a focused `PECOTS` question. You then systematically search for, screen, and critically appraise the relevant evidence, embracing the iterative nature of research where initial findings may lead you to refine your approach. This rigorous synthesis does more than just summarize what is known; it allows you to confirm, precisely define, and articulate the clinical relevance of the research gap. Ultimately, completing these steps equips you with a powerful, evidence-based argument, positioning your own study to make a meaningful contribution to the field.
+> In essence, this 7-step guide provides a structured and iterative framework to move from a preliminary research idea to a fully justified study. The process begins by translating a potential research gap whether identified from clinical practice or from existing literature, into a focused `PECOTS` question. You then systematically search for, screen, and critically appraise the relevant evidence, embracing the iterative nature of research where initial findings may lead you to refine your approach. This rigorous synthesis does more than just summarize what is known, it allows you to confirm, precisely define, and articulate the clinical relevance of the research gap. Ultimately, completing these steps equips you with a powerful, evidence-based argument, positioning your own study to make a meaningful contribution to the field.
