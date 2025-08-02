@@ -74,3 +74,36 @@ Finally, use the story you have uncovered to build a compelling and evidence-bas
 ## Summary
 
 > In essence, this 7-step guide provides a structured and iterative framework to move from a preliminary research idea to a fully justified study. The process begins by translating a potential research gap whether identified from clinical practice or from existing literature, into a focused `PECOTS` question. You then systematically search for, screen, and critically appraise the relevant evidence, embracing the iterative nature of research where initial findings may lead you to refine your approach. This rigorous synthesis does more than just summarize what is known, it allows you to confirm, precisely define, and articulate the clinical relevance of the research gap. Ultimately, completing these steps equips you with a powerful, evidence-based argument, positioning your own study to make a meaningful contribution to the field.
+
+
+{% hint style="info" %}
+### Important Clarification: Do AI Tools Have Access to All Journal Papers?
+
+That is a crucial and highly insightful question. The direct and unequivocal answer is **no, absolutely not.**
+
+As of August 2025, no Large Language Model or AI research assistant whether a general one like `GPT-4` or a specialized platform has true, comprehensive access to all academic literature, especially the full text of journal papers.
+
+Here is a breakdown of why this is the case.
+
+#### Why LLMs Do Not Have Access
+
+1.  **The Academic Publishing Paywall** The vast majority of high-impact scientific literature is locked behind expensive paywalls from publishers like Elsevier, Springer Nature, and Wiley. An LLM does not have a "university library card" to log in and cannot legally scrape this content for its training data.
+
+2.  **Copyright Law and Active Litigation** Training AI on copyrighted material is a contentious legal gray area. To mitigate immense legal risk, AI companies are not transparent about their exact data sources, but they are heavily skewed towards publicly accessible information.
+
+3.  **The Nature of LLM Training (Static Knowledge)** A foundational LLM is trained on a static snapshot of data up to a specific "knowledge cutoff date." It does not know about a paper published yesterday unless it has a live search feature, and even that feature cannot get past paywalls.
+
+#### What Access Do Specialized "AI Research Tools" Have?
+
+Tools like `Elicit` or `Consensus` are not giant brains that have "read" everything. They are sophisticated search interfaces built on top of specific, defined databases.
+
+* **Elicit:** Its access is primarily to the **Semantic Scholar** corpus, which indexes over 200 million papers. Its knowledge is defined and limited by this source, focusing on abstracts and open-access full texts.
+* **Consensus AI:** This tool also searches a curated academic database. Its access is limited to the papers within its own indexed collection, which again favors open-access content.
+* **Scite.ai:** This tool has agreements with many publishers to analyze the *context* of citations within full-text articles, but this access is not universal and is for the specific purpose of citation analysis.
+
+#### Your Takeaway as a Clinician Researcher
+
+1.  **Treat AI Tools as Powerful Assistants, Not Replacements.** Use them for the initial phases of your review: to identify key papers, explore a topic, and brainstorm search terms. They are excellent for a quick scanning of the landscape of the topics, and finding a preliminary or potential research gap.
+2.  **The Gold Standard Has Not Changed.** For a truly rigorous review, the primary method remains a **manual search across multiple databases (`PubMed`, `Scopus`, etc.) performed through your university library's portal.** This is the only way to legally and comprehensively access the full text of paywalled research that is crucial for your field. 
+3.  **Never Cite Based on a Summary Alone.** Never write about or cite a research paper based solely on an LLM's summary of it. The LLM may hallucinate details or misinterpret the findings. The core principle of academic integrity remains: you must **read and critically appraise the primary source yourself.**
+{% endhint %}
