@@ -25,7 +25,6 @@ Examples of Operational Sampling Frames:
 * **Probability Sampling (ideal but often impractical)**: Every individual in the population has a known, non-zero chance of being selected. This minimizes selection bias. Examples include:
   * _Systematic Sampling_: A practical approach when patients present over time. After a random starting point, you approach every nth patient who meets the eligibility criteria (e.g., screening every 5th patient registering at the clinic). This approximates random selection without needing a complete list in advance.
   * _Simple Random Sampling_: Feasible only when you have a complete list (e.g., from an electronic medical record query). Every individual on the list is assigned a number, and a random number generator is used to select participants.
-
 * **Non-Probability Sampling (commonly used with caution)**: While several non-probability methods exist, consecutive sampling stands out as a practical and often valid approach in clinical settings where the patient flow is dynamic. This method involves recruiting every eligible patient who presents over a specified timeframe. If the dynamic sampling frame is free of systematic patterns (e.g., sicker patients don't all arrive on specific days), consecutive sampling is efficient and can yield a sample with less selection bias than other convenience methods. Other approaches like general convenience sampling (recruiting those easiest to access) or purposive sampling (selecting specific individuals) are highly prone to selection bias and limit generalizability. Their use must be clearly justified.
   * _Consecutive Sampling_: A strong form of non-probability sampling. You recruit every eligible patient who meets the inclusion criteria from your source population over a specified time. This approach reduces the researcher's ability to consciously or subconsciously select patients, thus minimizing selection bias compared to other convenience methods.
   * _Convenience Sampling_: Recruiting participants based on their easy availability (e.g., patients attending a clinic only on the days the researcher is present). This method is highly susceptible to selection bias as the sample may not be representative of the overall patient population.
@@ -33,7 +32,8 @@ Examples of Operational Sampling Frames:
 
 • Essential Final Check: Assess Representativeness No matter the sampling method chosen, a crucial final step is to check the representativeness of your study sample. You must compare the key demographic and clinical characteristics of your participants against the known or published parameters of the target population. This assessment is vital for identifying potential biases and understanding the true extent to which your findings can be generalized.
 
-<br>
+\
+
 
 ## 2.2 Determine Your Sample Size
 
@@ -45,7 +45,9 @@ You often need to calculate the sample size for two different objectives: preval
 
 This ensures your "snapshot" is sharp and not blurry.
 
-● Formula: $N_{prevalence} = \frac{Z^2 \times P(1-P)}{d^2}$
+● Formula:&#x20;
+
+&#x20;                   $N\_{prevalence} = \frac{Z^2 \times P(1-P)}{d^2}$
 
 ● You'll need:
 
@@ -80,7 +82,8 @@ This ensures your study has enough power to find true relationships between vari
 
 Examples of sample size estimation description [HERE](resources/examples-sample-size.md).
 
-<br>
+\
+
 
 ## 2.3 Select and Validate Your Measurement Tools
 
