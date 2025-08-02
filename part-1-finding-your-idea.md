@@ -16,7 +16,7 @@ Types of Research Gaps to Look For:
 
 Techniques for Finding Gaps:
 
-* **Comprehensive Literature Review**: Read current research papers, systematic reviews, and clinical guidelines to find unanswered questions or outdated findings. Use tools like PubMed and Google Scholar. Artificial intelligence (AI) tools are emerging fast and worth mastering. At the time of the writing of this guide, tools such as [Elicit AI](https://elicit.com/), [Silvi AI](https://www.silvi.ai/), [DistillerSR](https://www.distillersr.com/), [EPPI-Reviewer](https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=2914), [Consensus AI](https://consensus.app/), and other assisting tools such as [Perplexity AI](https://www.perplexity.ai/), [Undermind AI](https://www.undermind.ai/), [Evidence Review Accelerator (TERA)](https://tera-tools.com/), [Covidence](https://www.covidence.org/) and [Rayyan](https://www.rayyan.ai/).
+* **Comprehensive Literature Review**: Read current research papers, systematic reviews, and clinical guidelines to find unanswered questions or outdated findings. See further below.
 * **Examine Study Limitations**: The "limitations" section of published articles often points directly to areas needing further research.
 * **Observe Clinical Practice**: Notice patterns in patient presentation, treatment responses, or healthcare access that don't align with existing literature.
 * **Engage in Discussions**: Talk with peers, mentors, and experts at conferences or journal clubs to brainstorm and validate potential research ideas.
