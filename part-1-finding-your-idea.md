@@ -37,7 +37,7 @@ This dynamic cycle involves several core activities:
 
 The term "**literature review**" itself represents a spectrum of methodologies. When used generally, it often refers to a **Narrative Review**, which tells the story of the existing research to build an argument for a new study. As your research questions become more focused and the need for rigor increases, other methodologies come into play. A **Systematic Review**, for instance, uses a strict protocol to answer a specific question like "_Is Drug A better than Drug B?_", while a **Scoping Review** maps the extent of research in a broad field to see what is known and where the major gaps lie.
 
-Understanding these differences and embracing the iterative nature of the process is crucial. The detailed guide [HERE](resources/literature-review.md) will further elaborate on each of the seven steps, helping you navigate the cycles of research with confidence.
+Understanding these differences and embracing the iterative nature of the process is crucial. The detailed guide [HERE](resources/literature-review.md) will further elaborate on each of the seven steps, helping you navigate the cycles of the literature review with confidence.
 
 ## 1.3 From Research Gap to Research Rationale
 
@@ -89,7 +89,10 @@ The **PICO**/**PECOTS** Structure:
 * **Outcome**: What is the effect you are looking for?
 * **Timing** and **Setting**: When and where? (In review, this is study designs).
 
-A simple formula for a prevalence question is: "What is the prevalence of \[condition] among \[population] in \[setting]?". From Question to Objectives: Your objectives are the specific, measurable steps you'll take to answer your question.
+A simple formula for a prevalence question is: "What is the prevalence of \[condition] among \[population] in \[setting]?". For an example of the PECOTS worked out HERE.
+
+<bv>
+From Question to Objectives: Your objectives are the specific, measurable steps you'll take to answer your question.
 
 * **General Objective**: Your main, big-picture goal.
   * Example: To estimate the prevalence of mental health disorders from internet addiction among university students.
