@@ -32,8 +32,7 @@ Examples of Operational Sampling Frames:
 
 • Essential Final Check: Assess Representativeness No matter the sampling method chosen, a crucial final step is to check the representativeness of your study sample. You must compare the key demographic and clinical characteristics of your participants against the known or published parameters of the target population. This assessment is vital for identifying potential biases and understanding the true extent to which your findings can be generalized.
 
-\
-
+<br>
 
 ## 2.2 Determine Your Sample Size
 
@@ -45,9 +44,7 @@ You often need to calculate the sample size for two different objectives: preval
 
 This ensures your "snapshot" is sharp and not blurry.
 
-● Formula:&#x20;
-
-&#x20;                   $N\_{prevalence} = \frac{Z^2 \times P(1-P)}{d^2}$
+● Formula: $N\_{prevalence} = \frac{Z^2 \times P(1-P)}{d^2}$
 
 ● You'll need:
 
@@ -82,8 +79,7 @@ This ensures your study has enough power to find true relationships between vari
 
 Examples of sample size estimation description [HERE](resources/examples-sample-size.md).
 
-\
-
+<br>
 
 ## 2.3 Select and Validate Your Measurement Tools
 
