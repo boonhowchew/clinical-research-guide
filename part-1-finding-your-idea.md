@@ -25,9 +25,20 @@ Techniques for Finding Gaps:
 
 A literature review is the methodical process of mastering the evidence, but it's important to know that it is a dynamic and iterative cycle, not a straight path. For example, a preliminary search for evidence might lead you to refine your initial question, just as synthesizing your findings can reveal unexpected gaps that require you to search again.
 
-<p align="center">
-  <img src="./assets/review-cycle.png" alt="Review of Iterative nature" width="85%">
-</p>
+A literature review is a critical and sophisticated task. Many people think it's just a long summary of everything they've read. The key shift in thinking is from **summarizing** to **synthesizing and creating an argument**. Think of it like a physician's consultation for a patient. You don't just list the patient's individual test results (a summary). You interpret them, connect them to the patient's history, identify what's missing, and present a coherent clinical opinion and a plan (a synthesis and argument). A literature review does the same for a research topic.
+
+This table dispels common misconceptions.
+
+| A Literature Review **IS**... | A Literature Review **IS NOT**... |
+| :--- | :--- |
+| ✅ **An argument that synthesizes findings into a coherent whole.** It connects different studies to tell a larger story about what is known. | ❌ **A list of summaries** of one paper after another (an annotated bibliography). |
+| ✅ **A critical evaluation** of the quality, relevance, contribution, and limitations of the existing work. | ❌ **A simple collection of facts,** quotes, or findings without understanding the study's PECOTS or relate to them in your interpretation. |
+| ✅ **A foundation that justifies the need for your new research.** It demonstrates that a specific gap exists that your study will address. | ❌ **An opinion piece or a general essay** about a topic. Your argument must be grounded in the evidence you present. |
+| ✅ **A structured and focused narrative** that is organised by common themes, ideas, or theories. | ❌ **A chronological or haphazard list** of everything ever published on a topic. It requires selective and purposeful organization. |
+| ✅ **A demonstration of your command of the topic,** showing that you understand the key concepts, landmark studies, and current debates. | ❌ **Just about what others have said.** Your authorial voice is essential for weaving the different sources together into a compelling narrative. |
+| ✅ **A map of the current state of knowledge,** which is dynamic and will evolve as new research (including your own) is published. | ❌ **The final, definitive word** on a subject. It is a snapshot in time. |
+
+<br>
 
 This dynamic cycle involves several core activities:
 
@@ -38,6 +49,10 @@ This dynamic cycle involves several core activities:
 * Step 5: Extracting and Synthesizing the Findings
 * Step 6: Identifying Gaps and Clinical Relevance
 * Step 7: Constructing Your Argument and Positioning Your Research
+
+<p align="center">
+  <img src="./assets/review-cycle.png" alt="Review of Iterative nature" width="85%">
+</p>
 
 The detailed guide [HERE](resources/literature-review.md) will further elaborate on each of the seven steps, helping you navigate the cycles of the literature review with confidence.
 
