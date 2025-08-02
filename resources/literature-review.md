@@ -4,9 +4,11 @@ This elaborates on each step for a literature review focused on _observational e
 
 **Crucially, this process is often a cycle, not a straight line.** The following steps are the formal method to explore, confirm, and precisely define the gap you have preliminarily identified. Be prepared to revisit earlier steps as you learn more.
 
----
+<p align="center">
+  <img src="./assets/review-cycle.png" alt="Review of Iterative nature" width="85%">
+</p>
 
-### Table of Contents
+
 1.  [Step 1: Start with a Research Gap and Formulate a Focused Question](#step-1-start-with-a-research-gap-and-formulate-a-focused-question)
 2.  [Step 2: Develop and Execute a Search Strategy](#step-2-develop-and-execute-a-search-strategy)
 3.  [Step 3: Screen and Select Studies Systematically](#step-3-screen-and-select-studies-systematically)
