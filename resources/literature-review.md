@@ -28,7 +28,7 @@ Your research journey begins with identifying a potential gap, using the techniq
 
 This comprehensive search will now thoroughly investigate the 'gap' you identified. Think like a detective, using a structured approach to find all the relevant evidence.
 
-**Action:** Identify databases (e.g., `PubMed/Medline`, `Scopus`, `CINAHL`), list keywords from your `PECOTS` question, and document your entire search process, including the date and the AI-assisted tools you used (e.g., `Elicit`, `Consensus AI`).
+**Action:** Identify databases (e.g., `PubMed/Medline`, `Scopus`, `CINAHL`), list keywords from your `PECOTS` question, and document your entire search process, including the date and the AI-assisted tools you used (e.g., `Elicit`, `Consensus AI`). At the time of the writing of this guide, AI tools include [Elicit AI](https://elicit.com/), [Silvi AI](https://www.silvi.ai/), [DistillerSR](https://www.distillersr.com/), [EPPI-Reviewer](https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=2914), [Consensus AI](https://consensus.app/), and other assisting tools such as [Perplexity AI](https://www.perplexity.ai/), [Undermind AI](https://www.undermind.ai/), [Evidence Review Accelerator (TERA)](https://tera-tools.com/), [Covidence](https://www.covidence.org/) and [Rayyan](https://www.rayyan.ai/).
 
 > **Reality Check (Iteration Point):** Your search will confirm whether the gap truly exists. You might find it has already been filled, or that it is different than you first thought. This is a critical finding! Be prepared to **go back to Step 1** to refine or even change your `PECOTS` research question.
 
