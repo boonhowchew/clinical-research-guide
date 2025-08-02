@@ -74,7 +74,7 @@ The term "**literature review**" itself represents a spectrum of methodologies. 
 
 <br>
 
-## 1.3 From Research Gap to Research Rationale - The problem Statements
+## 1.3 From Research Gap to Research Rationale - The Problem Statements
 
 Once you have identified a research topic, such as the link between internet addiction and mental health among students, and pinpointed a potential research gap, the next crucial step is to build a clear rationale for your study. This process involves more than just spotting a gap, it requires you to challenge the underlying assumptions in the existing literature to highlight why your research is needed and what new insights it can offer.
 
