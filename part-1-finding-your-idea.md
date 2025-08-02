@@ -89,9 +89,8 @@ The **PICO**/**PECOTS** Structure:
 * **Outcome**: What is the effect you are looking for?
 * **Timing** and **Setting**: When and where? (In review, this is study designs).
 
-A simple formula for a prevalence question is: "What is the prevalence of \[condition] among \[population] in \[setting]?". For an example of the PECOTS worked out HERE.
+A simple formula for a prevalence question is: "What is the prevalence of \[condition] among \[population] in \[setting]?". For an example of the PECOTS worked out [HERE](resources/PECOTS-example.md).
 
-<bv>
 From Question to Objectives: Your objectives are the specific, measurable steps you'll take to answer your question.
 
 * **General Objective**: Your main, big-picture goal.
