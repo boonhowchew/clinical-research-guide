@@ -45,7 +45,7 @@ You often need to calculate the sample size for two different objectives: preval
 
 This ensures your "snapshot" is sharp and not blurry.
 
-● Formula:  $N_{prevalence} = \frac{Z^2 \times P(1-P)}{d^2}$
+● Formula: $N_{prevalence} = \frac{Z^2 \times P(1-P)}{d^2}$
 
 ● You'll need:
 
