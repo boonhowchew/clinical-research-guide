@@ -13,6 +13,7 @@
 * [Box 1: Prevalence & Incidence](resources/box-1-prevalence-incidence.md)
 * [A Detailed 7-Step Guide to Reviewing Non-Interventional Studies](resources/literature-review.md)
 * [Box 2: Problem Statements](resources/box-2-problem_statements.md)
+* [A Step-by-Step Guide: Using PECOTS for Your Non-Interventional Study](resources/PECOTS-example.md)
 * [Box 3: Generalizability](resources/box-3-generalizability.md)
 * [Examples: Sample Size](resources/examples-sample-size.md)
 * [About](about.md)
