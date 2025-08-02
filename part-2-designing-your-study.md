@@ -51,7 +51,6 @@ $$
 N_{prevalence} = \frac{Z^2 \times P(1-P)}{d^2}
 $$
 
-\
 ● You'll need:
 
 * Z: Z-score for your desired confidence level (typically 1.96 for 95% confidence).
