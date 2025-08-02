@@ -68,4 +68,4 @@ Now, combine all the elements into a single, well-structured research question. 
 
 ### Putting It All Together (Final Research Question):
 
-> "In patients aged 65 and older registered at primary care clinics in Seri Kembangan (`P`, `S`), is living alone (`E`) compared to living with others (`C`) associated with a higher risk of unplanned hospital admission (`O`) over a one-year follow-up period (`T`)?"
+> "In patients aged 65 and older registered at primary care clinics in Seri Kembangan (`P`, `S`), who are living alone (`E`) compared to those living with others (`C`) associated with a higher risk of unplanned hospital admission (`O`) over a one-year follow-up period (`T`)?"
