@@ -21,7 +21,23 @@ Techniques for Finding Gaps:
 * **Observe Clinical Practice**: Notice patterns in patient presentation, treatment responses, or healthcare access that don't align with existing literature.
 * **Engage in Discussions**: Talk with peers, mentors, and experts at conferences or journal clubs to brainstorm and validate potential research ideas.
 
-## 1.2 From Research Gap to Research Rationale
+## 1.2 Literature Reviews in Clinical Research
+A literature review is the methodical process of mastering the evidence, but it's important to know that it is a dynamic and iterative cycle, not a straight path. For example, a preliminary search for evidence might lead you to refine your initial question, just as synthesizing your findings can reveal unexpected gaps that require you to search again.
+
+This dynamic cycle involves several core activities:
+* Step 1: Starting with a Clinical Observation and Formulating a Focused Question
+* Step 2: Developing and Executing a Search Strategy
+* Step 3: Screening and Selecting Studies Systematically
+* Step 4: Critically Appraising the Evidence
+* Step 5: Extracting and Synthesizing the Findings
+* Step 6: Identifying Gaps and Clinical Relevance
+* Step 7: Constructing Your Argument and Positioning Your Research
+
+The term "**literature review**" itself represents a spectrum of methodologies. When used generally, it often refers to a **Narrative Review**, which tells the story of the existing research to build an argument for a new study. As your research questions become more focused and the need for rigor increases, other methodologies come into play. A **Systematic Review**, for instance, uses a strict protocol to answer a specific question like "*Is Drug A better than Drug B?*", while a **Scoping Review** maps the extent of research in a broad field to see what is known and where the major gaps lie.
+
+Understanding these differences and embracing the iterative nature of the process is crucial. The detailed guide HERE will further elaborate on each of the seven steps, helping you navigate the cycles of research with confidence.
+
+## 1.3 From Research Gap to Research Rationale
 
 Once you have identified a research topic, such as the link between internet addiction and mental health among students, and pinpointed a potential research gap, the next crucial step is to build a clear rationale for your study. This process involves more than just spotting a gap, it requires you to challenge the underlying assumptions in the existing literature to highlight why your research is needed and what new insights it can offer.
 
@@ -35,7 +51,7 @@ This step, combined with motivating the research by outlining the what (contribu
 
 The above process of justifying your study naturally leads to theorization, which is the step where you connect your research gap to a structured plan for finding an answer. You do this by selecting an established theory to serve as an analytical lens, which is also known as your study's theoretical framework. Using an established theory provides the necessary structure to analyze the problem, develop your research questions, and guide your investigation, ensuring your study is built on a solid scientific foundation.
 
-## 1.3 Understanding Your Study's Foundation: Theoretical and Conceptual Frameworks
+## 1.4 Understanding Your Study's Foundation: Theoretical and Conceptual Frameworks
 
 After conducting a thorough literature review, the next step is to synthesize that knowledge into a coherent structure that will guide your study. This is done by developing a theoretical or conceptual framework. These frameworks serve as the critical link between the existing literature and your own research, helping to clarify your research problem, provide scientific support or justify your study, and provide a direct path to formulating your research questions and objectives, and analytical approaches. See some examples [HERE](https://drive.google.com/file/d/1a_8mxlcV5jVlJBhavx6Alhr8lXOVa-2H/view?usp=sharing).
 
@@ -59,7 +75,7 @@ While frameworks provide the initial structure for a study, they are not always 
 
 For instance, if your data reveals a new, critical factor that the original theory didnot account for, or shows that an established relationship between variables does not hold true in a specific context, this may suggest the theory needs updating. This process is fundamental to scientific advancement, it is how theories evolve and become more accurate over time. While this is less common in simple prevalence surveys, in-depth analytical studies or qualitative research can generate new insights that lead to the evolution of a conceptual framework into a new, more refined theory.
 
-## 1.4 Formulate a Clear Research Question and Objectives
+## 1.5 Formulate a Clear Research Question and Objectives
 
 A great study starts with a great question, that is well-informed of the exisitng corpus of knowledge and evidence, and of course the lack of it. For a prevalence study, your question should be clear, focused, and relevant.
 
