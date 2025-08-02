@@ -2,12 +2,11 @@
 
 This elaborates on each step for a literature review focused on _observational evidence_. It builds upon the techniques you've just learned for identifying a potential research gap.
 
-**Crucially, this process is often a cycle, not a straight line.** The following steps are the formal method to explore, confirm, and precisely define the gap you have preliminarily identified. Be prepared to revisit earlier steps as you learn more.
+**Crucially, this process is often a cycle, not a straight line.** This is expecially so when reviewing for fast emerging fields that research are actively done and findings being reported. Therefore, be prepared to revisit earlier steps as you learn more, and to re-run the search again at the end of your review if it has been quite awhile. In other areas and topics with less activity, or the early reviewing of papers do not indicate substantial changes in the definition or trend of the research topic, the need to reformulate review question and search strategy are lesser. The review can proceed according to the determined review question, and making note of different, related or emerging concepts about the topics. The following steps are the formal method to explore, confirm, and precisely define the gap you have preliminarily identified. 
 
 <p align="center">
-  <img src="./assets/review-cycle.png" alt="Review of Iterative nature" width="85%">
+  <img src="../assets/review-cycle.png" alt="Review of iterative nature" width="80%">
 </p>
-
 
 1.  [Step 1: Start with a Research Gap and Formulate a Focused Question](#step-1-start-with-a-research-gap-and-formulate-a-focused-question)
 2.  [Step 2: Develop and Execute a Search Strategy](#step-2-develop-and-execute-a-search-strategy)
