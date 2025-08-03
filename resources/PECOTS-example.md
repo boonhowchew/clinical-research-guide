@@ -32,12 +32,12 @@ The **Exposure** is the main factor, characteristic, or condition you are intere
 
 ## Step 4: Determine the Comparator (C)
 
-To understand the effect of the exposure, you need a comparison group. The **Comparator** provides a baseline against which the exposure group is measured.
+To understand the effect of the exposure, you need a comparison group. The **Comparator** provides a referent group against which the exposure group is measured. Another **C** is for **Context**, such as in a society with an aging population and changing family structures examining social relationships including family, friends, and social networks. Other possible contexts could from the angles of the individual elderly level of self-care knowledge, attitudes, and skills, or a public health priority to understand the risks associated with different living arrangements for the elderly to inform social and healthcare support systems.
 
 **Action:** Define the group that does not have the exposure.
 
 > **Example:** The natural comparison to living alone is not living alone.
-> * `C`: Living with a spouse, family, or other companions.
+> * `C`: Living with a spouse, family, or other companions; and family social relationships.
 
 ## Step 5: Specify the Outcome (O)
 
@@ -55,7 +55,7 @@ This defines the context of your study. The **Timing** clarifies the study durat
 **Action:** Define the timeframe for your study and the specific location.
 
 > **Example:**
-> * `T` (Timing): Over a follow-up period of one year (from January to December 2026).
+> * `T` (Timing): Over a follow-up period of one year (from January to December 2024).
 > * `S` (Setting): Data will be sourced from patient records at primary care clinics (`klinik kesihatan`) in Seri Kembangan, Selangor.
 
 ## Step 7: Assemble the Full PECOTS Question
@@ -68,4 +68,4 @@ Now, combine all the elements into a single, well-structured research question. 
 
 ### Putting It All Together (Final Research Question):
 
-> "In patients aged 65 and older registered at primary care clinics in Seri Kembangan (`P`, `S`), who are living alone (`E`) compared to those living with others (`C`) associated with a higher risk of unplanned hospital admission (`O`) over a one-year follow-up period (`T`)?"
+> "In patients aged 65 and older registered at primary care clinics in Seri Kembangan (`P`, `S`), who are living alone (`E`) compared to those living with others within the family structures (`C`) associated with a higher risk of unplanned hospital admission (`O`) over a one-year follow-up period in year 2024(`T`)?"
