@@ -196,8 +196,8 @@ This step integrates AI to accelerate your final review of the full-text article
 **New Introductory Text:**
 Before we finalize our objectives, it's essential to ground our research in a clear conceptual framework. This framework acts as a "map" of your study. It visualizes the key variables you plan to investigate and shows how you theorize they are related to each other. This map will guide everything from your data collection to your final analysis.
 
-**Objective:** To identify relevant theoretical models and create a practical, visual conceptual framework for the study.
-**AI's Role:** A research methodologist and academic illustrator.
+*  **Objective:** To identify relevant theoretical models and create a practical, visual conceptual framework for the study.
+*  **AI's Role:** A research methodologist and academic illustrator.
 
 **Follow-up Prompt:**
 *Act as a research methodologist. I need to develop a conceptual framework for my study on [remind AI of your topic, e.g., 'digital health literacy and its associated factors'].*
@@ -215,8 +215,8 @@ Before we finalize our objectives, it's essential to ground our research in a cl
 **New Introductory Text:**
 Now that we have a clear map (our conceptual framework) and a compelling purpose (from our problem statement), we can define our final destination. This step translates our broad research aim into a precise, structured research question and a set of measurable objectives.
 
-**Objective:** To formulate a clear research question using the PECOTS structure and to draft the final study objectives.
-**AI's Role:** A meticulous research methodologist.
+*  **Objective:** To formulate a clear research question using the PECOTS structure and to draft the final study objectives.
+*  **AI's Role:** A meticulous research methodologist.
 
 **Follow-up Prompt:**
 *Act as a meticulous research methodologist. Using the **'Purpose and Research Question' paragraph from my Problem Statement** and the **variables from my new Conceptual Framework**, please finalize my research question and objectives.*
