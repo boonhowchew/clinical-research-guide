@@ -51,7 +51,7 @@ If you understand this setup, please confirm by stating: **"Clinical Research Co
 
 ---
 
-## LLM Prompting Framework for Prevalence Studies
+## LLM Prompting Framework for each stages of a Prevalence Study
 
 ## Phase 1: Finding Your Idea & Laying the Foundation
 
@@ -66,7 +66,7 @@ If you understand this setup, please confirm by stating: **"Clinical Research Co
 *AI's Role: An expert research librarian and methodologist.*
 
 **Initial Prompt:**
-Act as an expert research librarian. I am planning a comprehensive literature search to find a research gap on the topic of [e.g., 'digital health literacy'] among [e.g., 'elderly patients with type 2 diabetes in Malaysia']. Help me prepare for a multi-pronged search strategy.
+*Act as an expert research librarian. I am planning a comprehensive literature search to find a research gap on the topic of [e.g., 'digital health literacy'] among [e.g., 'elderly patients with type 2 diabetes in Malaysia']. Help me prepare for a multi-pronged search strategy.*
 
 1.  **Generate Keywords:** Provide a list of primary and secondary keywords, including MeSH terms where applicable, for a traditional database search.
 2.  **Recommend Databases:** Suggest 3-4 appropriate traditional databases for this clinical topic (e.g., PubMed, Scopus, CINAHL).
@@ -77,7 +77,7 @@ Act as an expert research librarian. I am planning a comprehensive literature se
 
 ### **Step B: Executing the Two-Stage Search**
 
-**Your Turn: Execute both search methods to ensure both efficiency and comprehensiveness. We start with the accelerator method to work smarter.**
+**Your Turn**: Execute both search methods to ensure both efficiency and comprehensiveness. We start with the accelerator method to work smarter.
 
 #### **Stage 1: The Accelerator Search (Scout Ahead)**
 
@@ -92,9 +92,9 @@ Act as an expert research librarian. I am planning a comprehensive literature se
 
 *   **Purpose:** To conduct a broad, systematic search using the insights gained from Stage 1. This ensures you are rigorous and don't miss important studies that AI tools might overlook.
 *   **Action:**
-    1.  Refine your keywords and search strings from Step A based on what you learned in Stage 1.
+    1.  Refine your keywords and search strings from Step A based on what you learned in Stage 1 The Accelerator Search.
     2.  Execute your search in traditional databases like PubMed.
-    3.  Screen the titles and abstracts of the search results to identify all articles that seem to meet your inclusion criteria.
+    3.  Screen the titles and abstracts of the search results to identify all articles that seem to meet your eligiblity criteria.
     4.  Retrieve the **full-text PDFs** of these potentially eligible papers and save them to a dedicated folder.
 
 <br>
@@ -109,10 +109,9 @@ This step integrates AI to accelerate your final review of the full-text article
 *   **Tools to Use:** An LLM with PDF-reading capability (e.g., Claude, Perplexity Pro, or ChatGPT with a plugin).
 
 **Master Prompt for AI-Assisted Full-Text Review:**
+*Act as my dedicated research assistant. I will provide you with the full text of a clinical research paper. Your sole task is to read the paper and extract the following key information into a structured summary to help me rapidly assess its relevance to my research on [remind the AI of your topic, e.g., digital health literacy in elderly diabetic patients].*
 
-Act as my dedicated research assistant. I will provide you with the full text of a clinical research paper. Your sole task is to read the paper and extract the following key information into a structured summary to help me rapidly assess its relevance to my research on [remind the AI of your topic, e.g., digital health literacy in elderly diabetic patients].
-
-Present the output in a clear, bulleted format as follows:
+*Present the output in a clear, bulleted format as follows:*
 *   **PECOTS Breakdown:**
     *   **Population (P):** Describe the study participants, including sample size and key characteristics.
     *   **Exposure (E):** What was the main exposure or intervention studied?
@@ -125,7 +124,7 @@ Present the output in a clear, bulleted format as follows:
 *   **Stated Limitations:** List the specific limitations that the authors mentioned in the discussion section.
 *   **Relevance Clues:** Does the paper mention prevalence, risk factors, or use of a specific measurement tool related to my topic? (Answer with a brief "Yes" or "No" and the specific detail if yes).
 
-Do not add any interpretation or decide on the paper's final relevance. Your function is extraction and summarization only.
+*Do not add any interpretation or decide on the paper's final relevance. Your function is extraction and summarization only.*
 
 #### **Stage 2: Your Final Inclusion Decision**
 
@@ -141,40 +140,39 @@ Do not add any interpretation or decide on the paper's final relevance. Your fun
 *   **AI's Role:** A systematic review assistant skilled in data organization.
 
 **Prompt to Generate Evidence Summary Table:**
-Act as a systematic review assistant. Your task is to populate a comprehensive evidence summary table based on the individual paper summaries I provide.
+*Act as a systematic review assistant. Your task is to populate a comprehensive evidence summary table based on the individual paper summaries I provide.*
 
-The output must be a single Markdown table. For each paper summary I provide below, create one row in the table.
+*The output must be a single Markdown table. For each paper summary I provide below, create one row in the table.*
 
-The table should have the following columns:
-*   Author & Year
-*   Study Design
-*   Setting & Country
-*   Population (total number, sociodemographic characteristics, and important profile) 
-*   Outcome(s) & Measurement Tool(s)
-*   Key Findings (Quantitative & Qualitative)
-*   Noted Limitations
+*The table should have the following columns:*
+*   *Author & Year*
+*   *Study Design*
+*   *Setting & Country*
+*   *Population (total number, sociodemographic characteristics, and important profile)* 
+*   *Outcome(s) & Measurement Tool(s)*
+*   *Key Findings (Quantitative & Qualitative)*
+*   *Noted Limitations*
 
-Now, create the table using the following information.
-
-[Paste the AI-generated summaries from Stage 1 for all of your "Included" papers here. Separate each summary with a line or a clear heading.]
+*Now, create the table using the following information.
+[Paste the AI-generated summaries from Stage 1 for all of your "Included" papers here. Separate each summary with a line or a clear heading.]*
 
 <br>
 
 ### **Step D: Final Narrative Synthesis**
 
-*   **Purpose:** To weave the structured data from your evidence table into a coherent narrative for your introduction or literature review section. This step of requesting for a narrative synthesis of all the included papers could be done at the same time as the step above if LLM used is powerful to accommodate the amount of tokens and attachment. This has the advantage of letting the LLM looking into the attached papers. The possible disadvantage could be overloading of request and outputs are lower in quality.
+*   **Purpose:** To weave the structured data from your evidence table into a coherent narrative for your introduction or literature review section. This step of requesting for a narrative synthesis of all the included papers could be done at the same time as the step above if LLM used is powerful to accommodate the amount of required conversational tokens and attachment. This has the advantage of letting the LLM looking into the attached papers. The possible disadvantage could be overloading of request and outputs are lower in quality.
 *   **AI's Role:** A skilled academic writer.
 
 **Prompt for Narrative Synthesis:**
-Act as an expert academic writer. I have created an evidence summary table from my literature review. Based on the information within this table, please help me draft the narrative synthesis.
+*Act as an expert academic writer. I have created an evidence summary table from my literature review. Based on the information within this table, please help me draft the narrative synthesis.*
 
-1.  **Analyze the Table:** Analyze the provided table for key patterns, consistencies, or contradictions across the studies.
-2.  **Thematic Grouping:** Group the findings into 3-4 key themes (e.g., "Reported Prevalence Rates," "Key Associated Risk Factors," "Methodological Strengths and Weaknesses").
-3.  **Draft the Narrative:** Write a concise narrative (2-3 paragraphs) that synthesizes these themes. Start with a broad statement about the current state of knowledge, then elaborate on the specific themes you identified, citing the authors from the table as you go (e.g., "Smith et al. (2022) found... while Jones (2021) reported...").
-4.  **Articulate the Gap:** Conclude by drafting a clear and precise statement that summarizes the primary research gap revealed by this synthesis.
+  1. **Analyze the Table:** Analyze the provided table for key patterns, consistencies, or contradictions across the studies.*
+  2. **Thematic Grouping:** Group the findings into 3-4 key themes (e.g., "Reported Prevalence Rates," "Key Associated Risk Factors," "Methodological Strengths and Weaknesses").*
+  3. **Draft the Narrative:** Write a concise narrative (2-3 paragraphs) that synthesizes these themes. Start with a broad statement about the current state of knowledge, then elaborate on the specific themes you identified, citing the authors from the table as you go (e.g., "Smith et al. (2022) found... while Jones (2021) reported...").*
+  4. ***Articulate the Gap:** Conclude by drafting a clear and precise statement that summarizes the primary research gap revealed by this synthesis.*
 
-Here is the evidence table:
-[Paste the complete Markdown table generated in Step C here.]
+*Here is the evidence table:*
+*[Paste the complete Markdown table generated in Step C here.]*
 
 <br>
 
@@ -184,14 +182,14 @@ Here is the evidence table:
 *   **AI's Role:** An expert academic writer and senior clinical researcher, following the structure from "Box 2: Problem Statements" in the guide.
 
 ***Follow-up Prompt:***
-"Act as an expert academic writer specializing in research proposals. Using the information below, draft a compelling, four-paragraph Problem Statement.
+*"Act as an expert academic writer specializing in research proposals. Using the information below, draft a compelling, four-paragraph Problem Statement.*
 
-*   **The Clinical Problem:** `[e.g., Low digital health literacy among elderly patients with type 2 diabetes.]`
-*   **Significance & Urgency (The 'Why'):** `[e.g., This population struggles to use digital tools for self-management, leading to poor glycemic control and increased hospital visits. Local hospital data from 2024 shows a 30% increase in admissions for diabetes-related complications in this group.]`
-*   **The Knowledge Gap (What's Missing):** `[e.g., While international data exists, there is no published data on the prevalence of low digital health literacy or its associated factors among elderly diabetic patients in the Malaysian primary care system.]`
-*   **The Proposed Study (The Solution):** `[e.g., To conduct a cross-sectional study to determine the prevalence of low digital health literacy and identify its associated factors in this population.]`
+*   ***The Clinical Problem:** `[e.g., Low digital health literacy among elderly patients with type 2 diabetes.]`*
+*   ***Significance & Urgency (The 'Why'):** `[e.g., This population struggles to use digital tools for self-management, leading to poor glycemic control and increased hospital visits. Local hospital data from 2024 shows a 30% increase in admissions for diabetes-related complications in this group.]`*
+*   ***The Knowledge Gap (What's Missing):** `[e.g., While international data exists, there is no published data on the prevalence of low digital health literacy or its associated factors among elderly diabetic patients in the Malaysian primary care system.]`*
+*   ***The Proposed Study (The Solution):** `[e.g., To conduct a cross-sectional study to determine the prevalence of low digital health literacy and identify its associated factors in this population.]'*
 
-Structure the output into four distinct paragraphs: 1) The Problem, 2) Significance and Urgency, 3) The Knowledge Gap, and 4) Purpose and Research Question."
+*Structure the output into four distinct paragraphs: 1) The Problem, 2) Significance and Urgency, 3) The Knowledge Gap, and 4) Purpose and Research Question.*"
 
 ### **1.4 & 1.5: Establishing a Framework and Finalizing Objectives**
 
@@ -199,10 +197,10 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 *   **AI's Role:** A meticulous research methodologist.
 
 ***Follow-up Prompt:***
-"Now, let's finalize the research question and objectives.
-1.  **Framework:** Suggest one suitable theoretical framework (e.g., Health Belief Model) that could help explain the factors associated with `[e.g., digital health literacy]` and briefly justify its use.
-2.  **PECOTS Question:** Reframe the research question `[Insert your research question here]` using the PECOTS (Population, Exposure, Comparator, Outcome, Timing, Setting) framework.
-3.  **Objectives:** Based on this, draft a primary objective and three specific, measurable secondary objectives for the study."
+"*Now, let's finalize the research question and objectives.*
+*1.  **Framework:** Suggest one suitable theoretical framework (e.g., Health Belief Model) that could help explain the factors associated with `[e.g., digital health literacy]` and briefly justify its use.*
+*2.  **PECOTS Question:** Reframe the research question `[Insert your research question here]` using the PECOTS (Population, Exposure, Comparator, Outcome, Timing, Setting) framework.*
+*3.  **Objectives:** Based on this, draft a primary objective and three specific, measurable secondary objectives for the study.*"
 
 ---
 
@@ -214,16 +212,16 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 *   **AI's Role:** An experienced epidemiologist and biostatistician.
 
 ***Initial Prompt for this Phase:***
-"Act as an experienced clinical epidemiologist and methodologist, and a biostatistician. I am designing a prevalence study.
-*   **Population:** `[e.g., Elderly patients (age 65+) with type 2 diabetes attending three government primary care clinics in Selangor, Malaysia.]`
-*   **Primary Goal:** To determine the prevalence of `[e.g., low digital health literacy]`.
-*   **Secondary Goal:** To identify factors associated with it.
+"*Act as an experienced clinical epidemiologist and methodologist, and a biostatistician. I am designing a prevalence study.*
+*   ***Population:** `[e.g., Elderly patients (age 65+) with type 2 diabetes attending three government primary care clinics in Selangor, Malaysia.]*
+*   ***Primary Goal:** To determine the prevalence of `[e.g., low digital health literacy].*
+*   ***Secondary Goal:** To identify factors associated with it.*
 
-1.  **Eligibility Criteria:** Draft specific inclusion and exclusion criteria for this population.
-2.  **Sampling Strategy:** Recommend the most feasible sampling strategy and justify your choice.
-3.  **Sample Size for Prevalence:** Calculate the sample size needed to estimate the prevalence. Assume an expected prevalence of `[e.g., 40%]`, with a 95% confidence level and a 5% margin of error. Show the formula and calculation.
-4.  **Sample Size for Association:** Explain the requirements for calculating sample size for a multivariable logistic regression analysis. Referencing the '20 subjects per variable' rule of thumb, calculate the sample size needed if I plan to investigate `[e.g., 5]` independent variables.
-5.  **Final Sample Size:** Recommend a final sample size after comparing both calculations and accounting for a `[e.g., 20%]` non-response rate."
+*1.  **Eligibility Criteria:** Draft specific inclusion and exclusion criteria for this population.*
+*2.  **Sampling Strategy:** Recommend the most feasible sampling strategy and justify your choice.*
+*3.  **Sample Size for Prevalence:** Calculate the sample size needed to estimate the prevalence. Assume an expected prevalence of `[e.g., 40%]`, with a 95% confidence level and a 5% margin of error. Show the formula and calculation.*
+*4.  **Sample Size for Association:** Explain the requirements for calculating sample size for a multivariable logistic regression analysis. Referencing the '20 subjects per variable' rule of thumb, calculate the sample size needed if I plan to investigate `[e.g., 5]` independent variables.*
+*5.  **Final Sample Size:** Recommend a final sample size after comparing both calculations and accounting for a `[e.g., 20%]` non-response rate.*"
 
 ### **2.3: Selecting and Validating Measurement Tools**
 
@@ -231,11 +229,11 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 *   **AI's Role:** A research librarian and psychometrics expert.
 
 ***Follow-up Prompt:***
-"I need to select a questionnaire to measure `[your primary outcome, e.g., digital health literacy]`. Identify two validated questionnaires suitable for use in an elderly population. For each, provide:
-1.  A brief description and the number of items.
-2.  Published data on its validity (e.g., content, construct) and reliability (e.g., Cronbach's alpha).
-3.  Information on scoring and interpretation.
-4.  Any known limitations or costs."
+"*I need to select a questionnaire to measure `[your primary outcome, e.g., digital health literacy]`. Identify two validated questionnaires suitable for use in an elderly population. For each, provide:*
+*1.  A brief description and the number of items.*
+*2.  Published data on its validity (e.g., content, construct) and reliability (e.g., Cronbach's alpha).*
+*3.  Information on scoring and interpretation.*
+*4.  Any known limitations or costs.*"
 
 ---
 
@@ -247,11 +245,11 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 *   **AI's Role:** A detail-oriented data manager and biostatistician.
 
 ***Initial Prompt for this Phase:***
-"Act as an experienced data manager. Draft a data collection and analysis plan.
-1.  **Data Collection Protocol:** Outline the step-by-step process for collecting data from participants, from approach to consent to questionnaire administration.
-2.  **Piloting Plan:** Describe the steps for piloting the questionnaire with a small sample (e.g., 10-15 participants) and what feedback to collect.
-3.  **Data Analysis Plan (Descriptive):** Outline the descriptive statistics (e.g., frequencies, percentages, means, standard deviations) that will be used to summarize participant characteristics and determine prevalence with its 95% CI.
-4.  **Dummy Tables:** Create two dummy tables showing how the results for 'Participant Demographics' and 'Prevalence of Key Outcomes' will be presented."
+"*Act as an experienced data manager. Draft a data collection and analysis plan.*
+*1.  **Data Collection Protocol:** Outline the step-by-step process for collecting data from participants, from approach to consent to questionnaire administration.*
+*2.  **Piloting Plan:** Describe the steps for piloting the questionnaire with a small sample (e.g., 10-15 participants) and what feedback to collect.*
+*3.  **Data Analysis Plan (Descriptive):** Outline the descriptive statistics (e.g., frequencies, percentages, means, standard deviations) that will be used to summarize participant characteristics and determine prevalence with its 95% CI.*
+*4.  **Dummy Tables:** Create two dummy tables showing how the results for 'Participant Demographics' and 'Prevalence of Key Outcomes' will be presented.*"
 
 ### **3.3 & 3.4: Planning the Association Model and for Success**
 
@@ -259,10 +257,10 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 *   **AI's Role:** An advanced biostatistician and research methodologist.
 
 ***Follow-up Prompt:***
-"Now, let's detail the plan for the association model.
-1.  **Inferential Analysis Plan:** Describe the plan to use bivariate analysis (e.g., chi-square, t-tests) followed by multivariable logistic regression to identify factors independently associated with `[e.g., low digital health literacy]`.
-2.  **Model Assumptions:** List the key assumptions of logistic regression that must be checked, including multicollinearity (VIF), linearity of the logit, and influential outliers (Cook's Distance).
-3.  **Plan for Success:** Based on Section 3.4 of the guide, generate a bulleted list of proactive measures to ensure the success and credibility of this research, including points on a priori power analysis, data quality, and collaboration with a statistician."
+"*Now, let's detail the plan for the association model.*
+*1.  **Inferential Analysis Plan:** Describe the plan to use bivariate analysis (e.g., chi-square, t-tests) followed by multivariable logistic regression to identify factors independently associated with `[e.g., low digital health literacy].*
+*2.  **Model Assumptions:** List the key assumptions of logistic regression that must be checked, including multicollinearity (VIF), linearity of the logit, and influential outliers (Cook's Distance).*
+*3.  **Plan for Success:** Based on Section 3.4 of the guide, generate a bulleted list of proactive measures to ensure the success and credibility of this research, including points on a priori power analysis, data quality, and collaboration with a statistician.*"
 
 ---
 
@@ -274,10 +272,10 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 *   **AI's Role:** An experienced research manager and academic writer.
 
 ***Final Prompt:***
-"Act as an experienced academic writer and a research manager preparing the final sections of a proposal.
-1.  **Ethical Conduct:** Draft the 'Ethical Considerations' section, ensuring it covers informed consent, data confidentiality, anonymity, and the process for obtaining approval from a Research Ethics Committee.
-2.  **Interpretation and Discussion:** Using the nuanced definition from the guide, draft a paragraph on the potential 'Limitations' of this study. Frame them as imperfections of a rigorous design, not as excuses (e.g., 'While a cross-sectional design can identify associations, it cannot establish causality...').
-3.  **Practical Planning:** Create a simple Gantt chart in a markdown table format outlining the major project phases (e.g., Ethics Approval, Piloting, Data Collection, Analysis, Manuscript Writing) over a 12-month timeline."
+"*Act as an experienced academic writer and a research manager preparing the final sections of a proposal.*
+*1.  **Ethical Conduct:** Draft the 'Ethical Considerations' section, ensuring it covers informed consent, data confidentiality, anonymity, and the process for obtaining approval from a Research Ethics Committee.*
+*2.  **Interpretation and Discussion:** Using the nuanced definition from the guide, draft a paragraph on the potential 'Limitations' of this study. Frame them as imperfections of a rigorous design, not as excuses (e.g., 'While a cross-sectional design can identify associations, it cannot establish causality...').*
+*3.  **Practical Planning:** Create a simple Gantt chart in a markdown table format outlining the major project phases (e.g., Ethics Approval, Piloting, Data Collection, Analysis, Manuscript Writing) over a 12-month timeline.*"
 
 ---
 
