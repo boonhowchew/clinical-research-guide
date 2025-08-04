@@ -6,11 +6,11 @@ Before you begin with the specific prompts for each section, you will use the **
 
 ---
 
-### LLM Master Prompt: Setting Up Your AI Research Co-Pilot
+## LLM Master Prompt: Setting Up Your AI Research Co-Pilot
 
 *Instructions: Copy and paste this entire template into your chosen LLM at the very beginning of your session. Fill in the bracketed information with the details of your study.*
 
-## 1. Role, Goal, and Context (The Setup)
+### 1. Role, Goal, and Context (The Setup)
 
 **Act as my expert Clinical Research Co-Pilot.** Your persona is a multi-disciplinary expert with deep knowledge in:
 *   Clinical Epidemiology
@@ -26,7 +26,7 @@ Before you begin with the specific prompts for each section, you will use the **
 *   **Primary Setting:** `[e.g., Government maternal and child health clinics]`
 *   **Overall Research Aim:** `[e.g., To determine the prevalence of postpartum depression and identify its key psychosocial risk factors in this population to inform early screening strategies.]`
 
-## 2. Rules of Engagement (Our Collaboration Protocol)
+### 2. Rules of Engagement (Our Collaboration Protocol)
 
 Throughout our conversation, you must adhere to the following rules:
 *   **Expert Guidance, Not Final Answers:** Your role is to provide expert suggestions, drafts, and explanations. The final decision and responsibility always rest with me.
@@ -35,7 +35,7 @@ Throughout our conversation, you must adhere to the following rules:
 *   **Justify Recommendations:** When you recommend a specific method, statistical test, or strategy, briefly explain the rationale behind your choice.
 *   **Maintain Your Persona:** All your responses should be from the perspective of the expert Clinical Research Co-Pilot, adopting a formal, educational, and encouraging tone.
 
-## 3. How We Will Work (The Process)
+### 3. How We Will Work (The Process)
 
 Our workflow will follow the structure of my research guide. I will provide you with prompts corresponding to specific sections of the guide (e.g., "Now, let's work on Section 2.2: Sample Size"). You will provide a detailed response for that specific task, keeping the overall project context in mind.
 
@@ -51,24 +51,134 @@ If you understand this setup, please confirm by stating: **"Clinical Research Co
 
 ---
 
-### LLM Prompting Framework for Prevalence Studies
+## LLM Prompting Framework for Prevalence Studies
 
-#### Phase 1: Finding Your Idea & Laying the Foundation
+## Phase 1: Finding Your Idea & Laying the Foundation
 
-**1.1 & 1.2: Identifying the Research Gap and Conducting the Literature Review**
+### 1.1 & 1.2: A Modern, AI-Accelerated Literature Review Workflow
 
-*   **Objective:** To systematically review existing literature to identify a precise, meaningful research gap.
-*   **AI's Role:** A research assistant skilled in literature synthesis.
+**Objective:** To systematically plan and execute a comprehensive literature search using a modern, two-stage approach. We will start with fast, AI-powered tools to get a "lay of the land" and then proceed to a traditional, systematic search to ensure rigor and comprehensiveness.
 
-***Further Prompt:***
-"Act as an experienced clinical epidemiologist and methodologist. I am exploring the topic of `[e.g., 'digital health literacy']` among `[e.g., 'elderly patients with type 2 diabetes in Malaysia']`. My task is to conduct a literature review to identify a clear research gap.
+<br>
 
-1.  **Search & Screen:** Generate a list of search terms and potential databases (like PubMed, Scopus) for this topic.
-2.  **Synthesize:** Based on a hypothetical search, provide a thematic summary of what is currently known about this topic, focusing on prevalence, associated factors, and interventions.
-3.  **Identify Gaps:** Clearly state the knowledge gaps. Are there specific populations not studied? Are the existing studies outdated? Is the prevalence in a primary care setting unknown?
-4.  **Formulate a Preliminary Question:** Based on the most significant gap, formulate three potential research questions for a prevalence study."
+### **Step A: Planning Your Search Strategy**
 
-**1.3: From Research Gap to a Compelling Problem Statement**
+*AI's Role: An expert research librarian and methodologist.*
+
+**Initial Prompt:**
+Act as an expert research librarian. I am planning a comprehensive literature search to find a research gap on the topic of [e.g., 'digital health literacy'] among [e.g., 'elderly patients with type 2 diabetes in Malaysia']. Help me prepare for a multi-pronged search strategy.
+
+1.  **Generate Keywords:** Provide a list of primary and secondary keywords, including MeSH terms where applicable, for a traditional database search.
+2.  **Recommend Databases:** Suggest 3-4 appropriate traditional databases for this clinical topic (e.g., PubMed, Scopus, CINAHL).
+3.  **Formulate a Search String:** Combine the keywords into a sample Boolean search string that I can adapt for one of these databases.
+4.  **Formulate Natural Language Questions:** Draft 3-5 clear questions based on my topic that I can ask directly to AI search platforms like Elicit or Perplexity (e.g., 'What are the most commonly reported risk factors for low digital health literacy in elderly populations?').
+
+<br>
+
+### **Step B: Executing the Two-Stage Search**
+
+**Your Turn: Execute both search methods to ensure both efficiency and comprehensiveness. We start with the accelerator method to work smarter.**
+
+#### **Stage 1: The Accelerator Search (Scout Ahead)**
+
+*   **Purpose:** To rapidly understand the research landscape, identify seminal papers, discover key terminology, and quickly validate if a potential research gap exists. This is a "scout ahead" mission.
+*   **Tools to Use:** Elicit, Perplexity, Consensus, SciSpace, etc.
+*   **Action:**
+    1.  Use the natural language questions from Step A to query these AI platforms.
+    2.  Review the synthesized answers and, most importantly, the top papers they cite.
+    3.  From this initial exploration, create a "long list" of potentially relevant papers. Your goal here is to get a feel for the topic and find keywords for the next stage.
+
+#### **Stage 2: The Foundational Database Search & Full-Text Retrieval**
+
+*   **Purpose:** To conduct a broad, systematic search using the insights gained from Stage 1. This ensures you are rigorous and don't miss important studies that AI tools might overlook.
+*   **Action:**
+    1.  Refine your keywords and search strings from Step A based on what you learned in Stage 1.
+    2.  Execute your search in traditional databases like PubMed.
+    3.  Screen the titles and abstracts of the search results to identify all articles that seem to meet your inclusion criteria.
+    4.  Retrieve the **full-text PDFs** of these potentially eligible papers and save them to a dedicated folder.
+
+<br>
+
+### **Step C: AI-Assisted Full-Text Review and Evidence Table Creation**
+
+This step integrates AI to accelerate your final review of the full-text articles and to organize the findings into a master evidence table.
+
+#### **Stage 1: The AI-Assisted Briefing**
+
+*   **Your Turn:** For each full-text PDF you retrieved, you will use the following prompt to have the AI create a structured "briefing document."
+*   **Tools to Use:** An LLM with PDF-reading capability (e.g., Claude, Perplexity Pro, or ChatGPT with a plugin).
+
+**Master Prompt for AI-Assisted Full-Text Review:**
+
+Act as my dedicated research assistant. I will provide you with the full text of a clinical research paper. Your sole task is to read the paper and extract the following key information into a structured summary to help me rapidly assess its relevance to my research on [remind the AI of your topic, e.g., digital health literacy in elderly diabetic patients].
+
+Present the output in a clear, bulleted format as follows:
+*   **PECOTS Breakdown:**
+    *   **Population (P):** Describe the study participants, including sample size and key characteristics.
+    *   **Exposure (E):** What was the main exposure or intervention studied?
+    *   **Comparison (C):** Was there a comparison group? If so, describe it. If not, give the context of the study, not the setting which is covered by the (S) below.
+    *   **Outcome (O):** What were the primary outcomes measured?
+    *   **Timing (T):** What was the duration of the study or follow-up period? Any crucial time feature of the variables especially the outcome variable.
+    *   **Setting (S):** Where did the study take place (e.g., primary care, hospital, community)? Include the country.
+*   **Study Design:** State the specific study design (e.g., cross-sectional, cohort, RCT).
+*   **Key Findings:** Summarize the main results and conclusions as stated by the authors.
+*   **Stated Limitations:** List the specific limitations that the authors mentioned in the discussion section.
+*   **Relevance Clues:** Does the paper mention prevalence, risk factors, or use of a specific measurement tool related to my topic? (Answer with a brief "Yes" or "No" and the specific detail if yes).
+
+Do not add any interpretation or decide on the paper's final relevance. Your function is extraction and summarization only.
+
+#### **Stage 2: Your Final Inclusion Decision**
+
+*   **Your Turn:** Review the structured summaries generated by the AI for each paper. Based on these highly-condensed briefings, make your final inclusion/exclusion decision.
+*   **Action:**
+    1.  Read each AI-generated summary.
+    2.  Decide "Include" or "Exclude" for each paper.
+    3.  Create a final list of all "Included" papers. You will use the summaries for these papers in the next stage.
+
+#### **Stage 3: Creating the Master Evidence Table**
+
+*   **Purpose:** To consolidate the data from all your included papers into a single, structured table. This makes it easy to compare studies, spot patterns, and identify inconsistencies. Alternatively, this step could take over the steps in Stage 1 and 2 above if eligible papers have been decided manually. In this case the prompt below would become just '...papers...' instead of '...individual paper summaries...'
+*   **AI's Role:** A systematic review assistant skilled in data organization.
+
+**Prompt to Generate Evidence Summary Table:**
+Act as a systematic review assistant. Your task is to populate a comprehensive evidence summary table based on the individual paper summaries I provide.
+
+The output must be a single Markdown table. For each paper summary I provide below, create one row in the table.
+
+The table should have the following columns:
+*   Author & Year
+*   Study Design
+*   Setting & Country
+*   Population (total number, sociodemographic characteristics, and important profile) 
+*   Outcome(s) & Measurement Tool(s)
+*   Key Findings (Quantitative & Qualitative)
+*   Noted Limitations
+
+Now, create the table using the following information.
+
+[Paste the AI-generated summaries from Stage 1 for all of your "Included" papers here. Separate each summary with a line or a clear heading.]
+
+<br>
+
+### **Step D: Final Narrative Synthesis**
+
+*   **Purpose:** To weave the structured data from your evidence table into a coherent narrative for your introduction or literature review section. This step of requesting for a narrative synthesis of all the included papers could be done at the same time as the step above if LLM used is powerful to accommodate the amount of tokens and attachment. This has the advantage of letting the LLM looking into the attached papers. The possible disadvantage could be overloading of request and outputs are lower in quality.
+*   **AI's Role:** A skilled academic writer.
+
+**Prompt for Narrative Synthesis:**
+Act as an expert academic writer. I have created an evidence summary table from my literature review. Based on the information within this table, please help me draft the narrative synthesis.
+
+1.  **Analyze the Table:** Analyze the provided table for key patterns, consistencies, or contradictions across the studies.
+2.  **Thematic Grouping:** Group the findings into 3-4 key themes (e.g., "Reported Prevalence Rates," "Key Associated Risk Factors," "Methodological Strengths and Weaknesses").
+3.  **Draft the Narrative:** Write a concise narrative (2-3 paragraphs) that synthesizes these themes. Start with a broad statement about the current state of knowledge, then elaborate on the specific themes you identified, citing the authors from the table as you go (e.g., "Smith et al. (2022) found... while Jones (2021) reported...").
+4.  **Articulate the Gap:** Conclude by drafting a clear and precise statement that summarizes the primary research gap revealed by this synthesis.
+
+Here is the evidence table:
+[Paste the complete Markdown table generated in Step C here.]
+
+<br>
+
+### **1.3: From Research Gap to a Compelling Problem Statement**
 
 *   **Objective:** To craft a persuasive problem statement that justifies the need for your study.
 *   **AI's Role:** An expert academic writer and senior clinical researcher, following the structure from "Box 2: Problem Statements" in the guide.
@@ -83,7 +193,7 @@ If you understand this setup, please confirm by stating: **"Clinical Research Co
 
 Structure the output into four distinct paragraphs: 1) The Problem, 2) Significance and Urgency, 3) The Knowledge Gap, and 4) Purpose and Research Question."
 
-**1.4 & 1.5: Establishing a Framework and Finalizing Objectives**
+### **1.4 & 1.5: Establishing a Framework and Finalizing Objectives**
 
 *   **Objective:** To ground your study in a theoretical framework and formulate a clear research question and objectives using the PECOTS structure.
 *   **AI's Role:** A meticulous research methodologist.
@@ -94,11 +204,11 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 2.  **PECOTS Question:** Reframe the research question `[Insert your research question here]` using the PECOTS (Population, Exposure, Comparator, Outcome, Timing, Setting) framework.
 3.  **Objectives:** Based on this, draft a primary objective and three specific, measurable secondary objectives for the study."
 
-<br>
+---
 
-#### Phase 2: Designing Your Study
+## Phase 2: Designing Your Study
 
-**2.1 & 2.2: Defining Population, Sampling Strategy, and Sample Size**
+### **2.1 & 2.2: Defining Population, Sampling Strategy, and Sample Size**
 
 *   **Objective:** To define the study population, select a robust sampling strategy, and calculate the necessary sample size for both prevalence and association.
 *   **AI's Role:** An experienced epidemiologist and biostatistician.
@@ -115,7 +225,7 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 4.  **Sample Size for Association:** Explain the requirements for calculating sample size for a multivariable logistic regression analysis. Referencing the '20 subjects per variable' rule of thumb, calculate the sample size needed if I plan to investigate `[e.g., 5]` independent variables.
 5.  **Final Sample Size:** Recommend a final sample size after comparing both calculations and accounting for a `[e.g., 20%]` non-response rate."
 
-**2.3: Selecting and Validating Measurement Tools**
+### **2.3: Selecting and Validating Measurement Tools**
 
 *   **Objective:** To identify reliable, validated instruments for data collection.
 *   **AI's Role:** A research librarian and psychometrics expert.
@@ -127,11 +237,11 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 3.  Information on scoring and interpretation.
 4.  Any known limitations or costs."
 
-<br>
+---
 
-#### Phase 3: Data Collection and Analysis
+## Phase 3: Data Collection and Analysis
 
-**3.1 & 3.2: Planning Data Collection and Analysis**
+### **3.1 & 3.2: Planning Data Collection and Analysis**
 
 *   **Objective:** To create a comprehensive plan for data collection, piloting, and analysis.
 *   **AI's Role:** A detail-oriented data manager and biostatistician.
@@ -143,7 +253,7 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 3.  **Data Analysis Plan (Descriptive):** Outline the descriptive statistics (e.g., frequencies, percentages, means, standard deviations) that will be used to summarize participant characteristics and determine prevalence with its 95% CI.
 4.  **Dummy Tables:** Create two dummy tables showing how the results for 'Participant Demographics' and 'Prevalence of Key Outcomes' will be presented."
 
-**3.3 & 3.4: Planning the Association Model and for Success**
+### **3.3 & 3.4: Planning the Association Model and for Success**
 
 *   **Objective:** To detail the plan for multivariable analysis and list measures to ensure the study's overall success.
 *   **AI's Role:** An advanced biostatistician and research methodologist.
@@ -154,11 +264,11 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 2.  **Model Assumptions:** List the key assumptions of logistic regression that must be checked, including multicollinearity (VIF), linearity of the logit, and influential outliers (Cook's Distance).
 3.  **Plan for Success:** Based on Section 3.4 of the guide, generate a bulleted list of proactive measures to ensure the success and credibility of this research, including points on a priori power analysis, data quality, and collaboration with a statistician."
 
-<br>
+---
 
-#### Phase 4: Ethics & Reporting
+## Phase 4: Ethics & Reporting
 
-**4.1, 4.2 & 4.3: Ensuring Ethical Conduct, Reporting, and Practical Planning**
+### **4.1, 4.2 & 4.3: Ensuring Ethical Conduct, Reporting, and Practical Planning**
 
 *   **Objective:** To draft key administrative and concluding sections of the research proposal.
 *   **AI's Role:** An experienced research manager and academic writer.
@@ -169,6 +279,7 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 2.  **Interpretation and Discussion:** Using the nuanced definition from the guide, draft a paragraph on the potential 'Limitations' of this study. Frame them as imperfections of a rigorous design, not as excuses (e.g., 'While a cross-sectional design can identify associations, it cannot establish causality...').
 3.  **Practical Planning:** Create a simple Gantt chart in a markdown table format outlining the major project phases (e.g., Ethics Approval, Piloting, Data Collection, Analysis, Manuscript Writing) over a 12-month timeline."
 
+---
 
 ## Conclusion: Your Role as the Research Captain
 
