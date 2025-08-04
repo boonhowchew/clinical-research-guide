@@ -5,6 +5,7 @@
 * [Part 2: Designing Your Study](part-2-designing-your-study.md)
 * [Part 3: Data Collection and Analysis](part-3-data-collection-analysis.md)
 * [Part 4: Ethics & Reporting](part-4-ethics-reporting.md)
+* [Part 5: Supercharging Your Prevalence Study with AI Co-Pilots](part-5-AI-copilot.md)
 * [Conclusions](conclusion.md)
 
 ## Resources
