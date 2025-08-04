@@ -179,7 +179,7 @@ This step integrates AI to accelerate your final review of the full-text article
 ### **1.3: From Research Gap to a Compelling Problem Statement**
 
 *   **Objective:** To craft a persuasive problem statement that justifies the need for your study.
-*   **AI's Role:** An expert academic writer and senior clinical researcher, following the structure from "Box 2: Problem Statements" in the guide.
+*   **AI's Role:** An expert academic writer and senior clinical researcher, following the structure from "Box 2: Problem Statements" in this guide.
 
 ***Follow-up Prompt:***
 *"Act as an expert academic writer specializing in research proposals. Using the information below, draft a compelling, four-paragraph Problem Statement.*
@@ -187,41 +187,75 @@ This step integrates AI to accelerate your final review of the full-text article
 * ***The Clinical Problem:** `[e.g., Low digital health literacy among elderly patients with type 2 diabetes.]`*
 * ***Significance & Urgency (The 'Why'):** `[e.g., This population struggles to use digital tools for self-management, leading to poor glycemic control and increased hospital visits. Local hospital data from 2024 shows a 30% increase in admissions for diabetes-related complications in this group.]`*
 * ***The Knowledge Gap (What's Missing):** `[e.g., While international data exists, there is no published data on the prevalence of low digital health literacy or its associated factors among elderly diabetic patients in the Malaysian primary care system.]`*
-* ***The Proposed Study (The Solution):** `[e.g., To conduct a cross-sectional study to determine the prevalence of low digital health literacy and identify its associated factors in this population.]'*
+* ***The Proposed Study (A Brief Methodological Overview):** `[Provide a one-sentence summary of your intended study design. For example: "Therefore, we propose a cross-sectional study to determine the prevalence of this issue." Note: This is a high-level summary. We will develop the full methodological details in Phase 2.]`*
 
-*Structure the output into four distinct paragraphs: 1) The Problem, 2) Significance and Urgency, 3) The Knowledge Gap, and 4) Purpose and Research Question.*"
+*Structure the output into four distinct paragraphs: 1) The Problem, 2) Significance and Urgency, 3) The Knowledge Gap, and 4) **Purpose and Research Question.***"
 
-### **1.4 & 1.5: Establishing a Framework and Finalizing Objectives**
 
-*   **Objective:** To ground your study in a theoretical framework and formulate a clear research question and objectives using the PECOTS structure.
-*   **AI's Role:** A meticulous research methodologist.
+### **1.4: Grounding Your Research: Developing the Conceptual Framework**
+**New Introductory Text:**
+Before we finalize our objectives, it's essential to ground our research in a clear conceptual framework. This framework acts as a "map" of your study. It visualizes the key variables you plan to investigate and shows how you theorize they are related to each other. This map will guide everything from your data collection to your final analysis.
 
-***Follow-up Prompt:***
-"*Now, let's finalize the research question and objectives.*
-1.  ***Framework:** Suggest one suitable theoretical framework (e.g., Health Belief Model) that could help explain the factors associated with `[e.g., digital health literacy]` and briefly justify its use.*
-2.  ***PECOTS Question:** Reframe the research question `[Insert your research question here]` using the PECOTS (Population, Exposure, Comparator, Outcome, Timing, Setting) framework.*
-3.  ***Objectives:** Based on this, draft a primary objective and three specific, measurable secondary objectives for the study.*"
+**Objective:** To identify relevant theoretical models and create a practical, visual conceptual framework for the study.
+**AI's Role:** A research methodologist and academic illustrator.
+
+**Follow-up Prompt:**
+*Act as a research methodologist. I need to develop a conceptual framework for my study on [remind AI of your topic, e.g., 'digital health literacy and its associated factors'].*
+
+1.  ***Identify Relevant Theories:** Based on my topic, briefly describe 2-3 established theoretical models that are often used in this field (e.g., The Health Belief Model, Social Cognitive Theory, Technology Acceptance Model). Explain their core concepts in one sentence each.*
+2.  ***Identify Key Variables:** From the literature review I conducted, the key variables I plan to investigate are:*
+    *   ***Primary Outcome or Dependant Variable:** `[e.g., Digital Health Literacy Score]`*
+    *   ***Key Independent Variables (Determinants or Predictors):** `[List all the variables, e.g., Age, Socioeconomic Status, Education Level, Social Support, Previous Technology Use]`*
+3.  ***Create a Conceptual Framework Diagram:** Based on these variables, generate a simple conceptual framework diagram using **Mermaid syntax for Markdown**. The diagram should visually connect the independent variables to the primary outcome, illustrating the hypothesized relationships.*
+
+(Note to User: Mermaid is a simple text-based tool for creating diagrams. You can copy the code generated by the AI and paste it into a Mermaid editor like the one on GitHub or a dedicated online tool to see your visual framework.)
+
+
+### **1.5: Finalizing Your Research Question and Objectives**
+**New Introductory Text:**
+Now that we have a clear map (our conceptual framework) and a compelling purpose (from our problem statement), we can define our final destination. This step translates our broad research aim into a precise, structured research question and a set of measurable objectives.
+
+**Objective:** To formulate a clear research question using the PECOTS structure and to draft the final study objectives.
+**AI's Role:** A meticulous research methodologist.
+
+**Follow-up Prompt:**
+*Act as a meticulous research methodologist. Using the **'Purpose and Research Question' paragraph from my Problem Statement** and the **variables from my new Conceptual Framework**, please finalize my research question and objectives.*
+
+1.  ***PECOTS Question:** Reframe the research question from my Problem Statement into the formal PECOTS (Population, Exposure/s, Comparator, Outcome, Timing, Setting) structure. Ensure the 'Exposures' section includes the key independent variables from my framework.*
+2.  ***Study Objectives:** Based on the PECOTS question and framework, draft the following:*
+    *   ***Primary Objective:** A single, clear statement about determining the prevalence of the main outcome.*
+    *   ***Secondary Objectives:** `[e.g., 3-4]` specific objectives, each focused on exploring the relationship between one or more of the independent variables and the primary outcome.*
+
+***Input Paragraph (from Problem Statement):***
+*`[Paste the entire fourth paragraph, the "Purpose and Research Question," generated by the AI in Section 1.3 here.]`*
+
+***Key Independent Variables (from Conceptual Framework):***
+*`[List the independent variables you used in Section 1.4 here.]`*
 
 ---
 
 ## Phase 2: Designing Your Study
 
 ### **2.1 & 2.2: Defining Population, Sampling Strategy, and Sample Size**
+In Section 1.3, we outlined a brief overview of your proposed study. Now, you will build out the complete technical details of that plan, starting with the core components of population, sampling, and sample size.
 
 *   **Objective:** To define the study population, select a robust sampling strategy, and calculate the necessary sample size for both prevalence and association.
 *   **AI's Role:** An experienced epidemiologist and biostatistician.
 
 ***Initial Prompt for this Phase:***
-"*Act as an experienced clinical epidemiologist and methodologist, and a biostatistician. I am designing a prevalence study:*
-*   ***Population:** `[e.g., Elderly patients (age 65+) with type 2 diabetes attending three government primary care clinics in Selangor, Malaysia.]*
-*   ***Primary Goal:** To determine the prevalence of `[e.g., low digital health literacy].*
-*   ***Secondary Goal:** To identify factors associated with it.*
+"*Act as an experienced clinical epidemiologist and methodologist, and a biostatistician. I am designing a prevalence study based on the following plan:*
 
+*   ***Study Design Mentioned in Problem Statement:** `[e.g., A cross-sectional study]`*
+*   ***Population:** `[e.g., Elderly patients (age 65+) with type 2 diabetes attending three government primary care clinics in Selangor, Malaysia.]`*
+*   ***Primary Objective:** To determine the prevalence of `[e.g., low digital health literacy]`.*
+*   ***Secondary Objectives:** To identify factors associated with it.*
+
+*Now, based on this information:*
 1.  ***Eligibility Criteria:** Draft specific inclusion and exclusion criteria for this population.*
-2.  ***Sampling Strategy:** Recommend the most feasible sampling strategy and justify your choice.*
-3.  ***Sample Size for Prevalence:** Calculate the sample size needed to estimate the prevalence. Assume an expected prevalence of `[e.g., 40%]`, with a 95% confidence level and a 5% margin of error. Show the formula and calculation.*
-4.  ***Sample Size for Association:** Explain the requirements for calculating sample size for a multivariable logistic regression analysis. Referencing the '20 subjects per variable' rule of thumb, calculate the sample size needed if I plan to investigate `[e.g., 5]` independent variables.*
-5.  ***Final Sample Size:** Recommend a final sample size after comparing both calculations and accounting for a `[e.g., 20%]` non-response rate.*"
+2.  ***Sampling Strategy:** Recommend the most feasible sampling strategy that aligns with the stated study design and justify your choice.*
+3.  ***Sample Size for Prevalence:** Calculate the sample size needed to estimate the prevalence. Assume an expected prevalence of [e.g., 40%], with a 95% confidence level and a 5% margin of error. Show the formula and calculation.*
+4.  ***Sample Size for Association:** Explain the requirements for calculating sample size for a multivariable logistic regression analysis. Referencing the '20 subjects per variable' rule of thumb, calculate the sample size needed if I plan to investigate [e.g., 5] independent variables.*
+5.  ***Final Sample Size:** Recommend a final sample size after comparing both calculations and accounting for a [e.g., 20%] non-response rate.*
 
 ### **2.3: Selecting and Validating Measurement Tools**
 
@@ -240,27 +274,44 @@ This step integrates AI to accelerate your final review of the full-text article
 ## Phase 3: Data Collection and Analysis
 
 ### **3.1 & 3.2: Planning Data Collection and Analysis**
+With our objectives defined and measurement tools selected, we now move to the operational core of the study. This section focuses on creating a precise plan for how to collect the data and how to perform the initial descriptive analysis required to answer your primary objective.
 
-*   **Objective:** To create a comprehensive plan for data collection, piloting, and analysis.
+*   **Objective:** To create a comprehensive plan for data collection, piloting, and the descriptive analysis needed to address the study's primary objective.
 *   **AI's Role:** A detail-oriented data manager and biostatistician.
 
 ***Initial Prompt for this Phase:***
-"*Act as an experienced data manager and biostatistician. Draft a data collection and analysis plan.*
-1.  ***Data Collection Protocol:** Outline the step-by-step process for collecting data from participants, from approach to consent to questionnaire administration.*
-2.  ***Piloting Plan:** Describe the steps for piloting the questionnaire with a small sample (e.g., 10-15 participants) and what feedback to collect.*
-3.  ***Data Analysis Plan (Descriptive):** Outline the descriptive statistics (e.g., frequencies, percentages, means, standard deviations) that will be used to summarize participant characteristics and determine prevalence with its 95% CI.*
-4.  ***Dummy Tables:** Create two dummy tables showing how the results for 'Participant Demographics' and 'Prevalence of Key Outcomes' will be presented.*"
+"*Act as an experienced data manager and biostatistician. I need to create a plan for data collection and the initial descriptive analysis. Here is the context from my previous planning steps:*
+
+*   ***Primary Objective:** `[Paste your primary objective from Section 1.5. e.g., To determine the prevalence of low digital health literacy among elderly patients with type 2 diabetes.]`*
+*   ***Selected Measurement Tool(s):** `[List the specific questionnaires you chose in Section 2.3. e.g., The eHEALS questionnaire and a custom demographic survey.]`*
+
+*Based on this, draft the following plans:*
+
+1.  ***Data Collection Protocol:** Outline the step-by-step process for collecting data using the specified tools, from approaching the participant to obtaining consent and administering the questionnaires.*
+2.  ***Piloting Plan:** Describe the steps for piloting the questionnaire(s) with a small sample (e.g., 10-15 participants). Specify that the goal is to check for clarity, flow, and time to completion.*
+3.  ***Descriptive Analysis Plan:** Specifically for the primary objective, outline the descriptive statistics (e.g., frequencies, percentages for categorical data; means, standard deviations for continuous data) that will be used to summarize participant characteristics and calculate the prevalence of the main outcome with its 95% Confidence Interval.*
+4.  ***Dummy Tables:** Create two dummy tables showing how the results for 'Participant Demographics' and 'Prevalence of the Primary Outcome' will be presented.*
+
 
 ### **3.3 & 3.4: Planning the Association Model and for Success**
+The previous step detailed the analysis for our primary objective (the "what"). This next crucial step focuses on the inferential analysis needed to address our secondary objectives—exploring the associations and potential predictors (the "why"). We will also outline a plan to ensure the overall credibility of our findings.
 
-*   **Objective:** To detail the plan for multivariable analysis and list measures to ensure the study's overall success.
+*   **Objective:** To detail the plan for multivariable analysis to meet the secondary objectives and to list measures to ensure the study's overall success.
 *   **AI's Role:** An advanced biostatistician and research methodologist.
 
 ***Follow-up Prompt:***
-"*Now, let's detail the plan for the association model.*
-1.  ***Inferential Analysis Plan:** Describe the plan to use bivariate analysis (e.g., chi-square, t-tests) followed by multivariable logistic regression to identify factors independently associated with `[e.g., low digital health literacy].*
-2.  ***Model Assumptions:** List the key assumptions of logistic regression that must be checked, including multicollinearity (VIF), linearity of the logit, and influential outliers (Cook's Distance).*
-3.  ***Plan for Success:** Based on Section 3.4 of the guide, generate a bulleted list of proactive measures to ensure the success and credibility of this research, including points on a priori power analysis, data quality, and collaboration with a statistician.*"
+"*Act as an advanced biostatistician and research methodologist. The next task is to design the inferential analysis plan to explore the factors associated with our primary outcome.*
+
+*Here is the necessary context:*
+*   ***Secondary Objectives:** `[Paste your secondary objectives from Section 1.5 here. e.g., To identify factors associated with low digital health literacy.]`*
+*   ***Primary Outcome Variable:** `[Specify how the main outcome will be categorized for this analysis. e.g., Low Digital Health Literacy (Categorical: Yes/No)]`*
+*   ***Potential Predictor Variables:** `[List the key independent variables you collected. e.g., Age, gender, education level, income, duration of diabetes.]`*
+
+*Now, detail the following:*
+
+1.  ***Inferential Analysis Plan:** Describe the plan to first use bivariate analysis (e.g., chi-square tests for categorical variables, t-tests for continuous variables) to screen predictors. Then, detail how multivariable logistic regression will be used to identify factors independently associated with the primary outcome.*
+2.  ***Model Assumptions:** List the key assumptions of logistic regression that must be checked, such as the absence of strong multicollinearity (using VIF), the linearity of the logit for continuous variables, and checking for influential outliers.*
+3.  ***Plan for Success:** Based on best practices, generate a bulleted list of proactive measures to ensure the credibility of this research. This should include points on having an a priori analysis plan, ensuring data quality, transparently reporting methods, and collaborating with a statistician.```*"
 
 ---
 
