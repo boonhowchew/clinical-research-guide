@@ -1,4 +1,4 @@
-### Part 5: Supercharging Your Prevalence Study with an AI Co-Pilot
+# Part 5: Supercharging Your Prevalence Study with an AI Co-Pilot
 
 This section provides a structured framework for leveraging Large Language Models (LLMs) like ChatGPT, Gemini, and Claude as a collaborative co-pilot throughout your research process. The key to a successful partnership with an AI is structure. Just as you wouldn't ask a junior research assistant to "do the research" without context, you must properly brief your AI.
 
