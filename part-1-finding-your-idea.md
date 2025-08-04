@@ -163,7 +163,6 @@ Let's look at how a research question is broken down into a clear set of objecti
 **Research Question:** "What is the prevalence of problematic internet use among university students at our university, and what factors are associated with it?"
 
 #### **General Objective:**
-
 The general objective is your main, "big-picture" goal. It mirrors the research question.
 
 > **Example:** To determine the prevalence and identify the associated factors of problematic internet use among students at University X.
@@ -174,9 +173,9 @@ The specific objectives are the smaller, actionable steps that logically allow y
 
 > **Example:** To achieve the general objective, we will pursue the following specific objectives:
 >
-> 1.  To **determine** the prevalence of mild, moderate, and severe problematic internet use among the student population.
-> 2.  To **describe** the sociodemographic, academic, and lifestyle characteristics of the study sample.
+> 1.  To **describe** the sociodemographic, academic, and lifestyle characteristics of the study sample. This objective may not be necessary because all research have to first describe the study samples and to establish representativeness of them to the target population. See Box Information 3 for further explanation.
+> 2.  To **determine** the prevalence of mild, moderate, and severe problematic internet use among the student population.
 > 3.  To **identify** the key sociodemographic and lifestyle factors associated with a higher risk of problematic internet use.
-> 4.  To **explore** the association between the severity of problematic internet use and self-reported academic performance.
+> 4.  To **examine** the association between the severity of problematic internet use and self-reported academic performance.
 
-**Key Takeaway:** Notice how the specific objectives are not random. They are a logical sequence: first, you measure the main outcome (**1**), then you describe your sample (**2**), then you analyze the relationships you want to understand (**3 & 4**). Together, they comprehensively answer the general objective.
+**Key Takeaway:** Notice how the specific objectives are not random. They are a logical sequence: first, you describe your sample (**1**), then you measure the main outcome (**2**), then you analyze the relationships you want to understand (**3 & 4**). Together, they comprehensively answer the general objective.
