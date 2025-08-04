@@ -116,10 +116,10 @@ For instance, if your data reveals a new, critical factor that the original theo
 
 A great study starts with a great question, that is well-informed of the exisitng corpus of knowledge and evidence, and of course the lack of it. For a prevalence study, your question should be clear, focused, and relevant.
 
-The **PICO**/**PECOTS** Structure:
+The **PECOTS** Structure:
 
 * **Population**: Who are you studying? (e.g., primary school teachers, elderly in rural areas)
-* **Intervention**/**Exposure**: What are you measuring? (e.g., depression, smoking habits)
+* **Exposure**: What are you measuring? (e.g., depression, smoking habits)
 * **Comparison** or **Context**: Is there a comparison group? Or, what is the specific context of the issue?
 * **Outcome**: What is the effect you are looking for?
 * **Timing** and **Setting**: When and where? (In review, this is study designs).
@@ -130,7 +130,53 @@ A simple formula for a prevalence question is: "What is the prevalence of \[cond
 
 From Question to Objectives: Your objectives are the specific, measurable steps you'll take to answer your question.
 
-* **General Objective**: Your main, big-picture goal.
-  * Example: To estimate the prevalence of mental health disorders from internet addiction among university students.
-* **Specific Objectives**: Smaller, actionable goals. Use verbs like to determine, to identify, to describe.
-  * Example: To identify factors associated with high-risk internet use.
+Of course. You've correctly identified a key nuance. The distinction between "General/Specific" and "Primary/Secondary" objectives is crucial for methodological clarity, and the previous text could be significantly improved.
+
+The "General/Specific" framework is perfect for descriptive or observational research like most prevalence studies, while "Primary/Secondary" is the standard for hypothesis-testing studies, especially clinical trials.
+
+Here is a revised, more instructive version that clarifies this distinction and provides a more coherent and illustrative example.
+
+***
+
+### **From Question to Objectives: Creating Your Study's Roadmap**
+
+Your objectives are the specific, measurable steps you'll take to answer your research question. They transform your broad aim into a clear, actionable roadmap for your entire study.
+
+#### **Choosing the Right Objective Framework**
+
+There are two common frameworks for stating objectives. Choosing the right one signals the nature of your study.
+
+1.  **General & Specific Objectives:** This is the most common framework for **observational or descriptive studies**, including prevalence studies, surveys, and dissertations. It outlines a main, overarching goal and the series of steps required to achieve it.
+
+2.  **Primary & Secondary Objectives:** This framework is the standard for **experimental or hypothesis-testing studies**, especially clinical trials (RCTs).
+    *   The **Primary Objective** is the single, most important question the study is powered to answer (e.g., "To determine if Drug A is superior to a placebo...").
+    *   **Secondary Objectives** are other important questions that are exploratory or not the central focus of the study's statistical power.
+
+For most prevalence studies, the **General and Specific Objectives** framework is the most appropriate and widely used.
+
+<br>
+
+### **A Detailed Example: General & Specific Objectives**
+
+Let's look at how a research question is broken down into a clear set of objectives.
+
+**Research Question:** "What is the prevalence of problematic internet use among university students at our university, and what factors are associated with it?"
+
+#### **General Objective:**
+
+The general objective is your main, "big-picture" goal. It mirrors the research question.
+
+> **Example:** To determine the prevalence and identify the associated factors of problematic internet use among students at University X.
+
+#### **Specific Objectives:**
+
+The specific objectives are the smaller, actionable steps that logically allow you to achieve your general objective. They should begin with strong action verbs.
+
+> **Example:** To achieve the general objective, we will pursue the following specific objectives:
+>
+> 1.  To **determine** the prevalence of mild, moderate, and severe problematic internet use among the student population.
+> 2.  To **describe** the sociodemographic, academic, and lifestyle characteristics of the study sample.
+> 3.  To **identify** the key sociodemographic and lifestyle factors associated with a higher risk of problematic internet use.
+> 4.  To **explore** the association between the severity of problematic internet use and self-reported academic performance.
+
+**Key Takeaway:** Notice how the specific objectives are not random. They are a logical sequence: first, you measure the main outcome (**1**), then you describe your sample (**2**), then you analyze the relationships you want to understand (**3 & 4**). Together, they comprehensively answer the general objective.
