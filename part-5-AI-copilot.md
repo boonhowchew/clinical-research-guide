@@ -112,17 +112,17 @@ This step integrates AI to accelerate your final review of the full-text article
 *Act as my dedicated research assistant. I will provide you with the full text of a clinical research paper. Your sole task is to read the paper and extract the following key information into a structured summary to help me rapidly assess its relevance to my research on [remind the AI of your topic, e.g., digital health literacy in elderly diabetic patients].*
 
 *Present the output in a clear, bulleted format as follows:*
-*   **PECOTS Breakdown:**
-    *   **Population (P):** Describe the study participants, including sample size and key characteristics.
-    *   **Exposure (E):** What was the main exposure or intervention studied?
-    *   **Comparison (C):** Was there a comparison group? If so, describe it. If not, give the context of the study, not the setting which is covered by the (S) below.
-    *   **Outcome (O):** What were the primary outcomes measured?
-    *   **Timing (T):** What was the duration of the study or follow-up period? Any crucial time feature of the variables especially the outcome variable.
-    *   **Setting (S):** Where did the study take place (e.g., primary care, hospital, community)? Include the country.
-*   **Study Design:** State the specific study design (e.g., cross-sectional, cohort, RCT).
-*   **Key Findings:** Summarize the main results and conclusions as stated by the authors.
-*   **Stated Limitations:** List the specific limitations that the authors mentioned in the discussion section.
-*   **Relevance Clues:** Does the paper mention prevalence, risk factors, or use of a specific measurement tool related to my topic? (Answer with a brief "Yes" or "No" and the specific detail if yes).
+*   ***PECOTS Breakdown:***
+    *   ***Population (P):** Describe the study participants, including sample size and key characteristics.*
+    *   ***Exposure (E):** What was the main exposure or intervention studied?*
+    *   ***Comparison (C):** Was there a comparison group? If so, describe it. If not, give the context of the study, not the setting which is covered by the (S) below.*
+    *   ***Outcome (O):** What were the primary outcomes measured?*
+    *   ***Timing (T):** What was the duration of the study or follow-up period? Any crucial time feature of the variables especially the outcome variable.*
+    *   ***Setting (S):** Where did the study take place (e.g., primary care, hospital, community)? Include the country.*
+*   ***Study Design:** State the specific study design (e.g., cross-sectional, cohort, RCT).*
+*   ***Key Findings:** Summarize the main results and conclusions as stated by the authors.*
+*   ***Stated Limitations:** List the specific limitations that the authors mentioned in the discussion section.*
+*   ***Relevance Clues:** Does the paper mention prevalence, risk factors, or use of a specific measurement tool related to my topic? (Answer with a brief "Yes" or "No" and the specific detail if yes).*
 
 *Do not add any interpretation or decide on the paper's final relevance. Your function is extraction and summarization only.*
 
