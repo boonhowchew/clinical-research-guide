@@ -193,7 +193,6 @@ This step integrates AI to accelerate your final review of the full-text article
 
 
 ### **1.4: Grounding Your Research: Developing the Conceptual Framework**
-**New Introductory Text:**
 Before we finalize our objectives, it's essential to ground our research in a clear conceptual framework. This framework acts as a "map" of your study. It visualizes the key variables you plan to investigate and shows how you theorize they are related to each other. This map will guide everything from your data collection to your final analysis.
 
 *  **Objective:** To identify relevant theoretical models and create a practical, visual conceptual framework for the study.
@@ -212,7 +211,6 @@ Before we finalize our objectives, it's essential to ground our research in a cl
 
 
 ### **1.5: Finalizing Your Research Question and Objectives**
-**New Introductory Text:**
 Now that we have a clear map (our conceptual framework) and a compelling purpose (from our problem statement), we can define our final destination. This step translates our broad research aim into a precise, structured research question and a set of measurable objectives.
 
 *  **Objective:** To formulate a clear research question using the PECOTS structure and to draft the final study objectives.
