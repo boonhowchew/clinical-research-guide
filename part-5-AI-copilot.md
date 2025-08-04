@@ -94,6 +94,8 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 2.  **PECOTS Question:** Reframe the research question `[Insert your research question here]` using the PECOTS (Population, Exposure, Comparator, Outcome, Timing, Setting) framework.
 3.  **Objectives:** Based on this, draft a primary objective and three specific, measurable secondary objectives for the study."
 
+<br>
+
 #### Phase 2: Designing Your Study
 
 **2.1 & 2.2: Defining Population, Sampling Strategy, and Sample Size**
@@ -125,6 +127,8 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 3.  Information on scoring and interpretation.
 4.  Any known limitations or costs."
 
+<br>
+
 #### Phase 3: Data Collection and Analysis
 
 **3.1 & 3.2: Planning Data Collection and Analysis**
@@ -150,6 +154,8 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 2.  **Model Assumptions:** List the key assumptions of logistic regression that must be checked, including multicollinearity (VIF), linearity of the logit, and influential outliers (Cook's Distance).
 3.  **Plan for Success:** Based on Section 3.4 of the guide, generate a bulleted list of proactive measures to ensure the success and credibility of this research, including points on a priori power analysis, data quality, and collaboration with a statistician."
 
+<br>
+
 #### Phase 4: Ethics & Reporting
 
 **4.1, 4.2 & 4.3: Ensuring Ethical Conduct, Reporting, and Practical Planning**
@@ -164,7 +170,7 @@ Structure the output into four distinct paragraphs: 1) The Problem, 2) Significa
 3.  **Practical Planning:** Create a simple Gantt chart in a markdown table format outlining the major project phases (e.g., Ethics Approval, Piloting, Data Collection, Analysis, Manuscript Writing) over a 12-month timeline."
 
 
-### Conclusion: Your Role as the Research Captain
+## Conclusion: Your Role as the Research Captain
 
 This framework is designed to transform your interaction with AI from simple queries into a structured, professional collaboration. The goal is not to have the AI do the work *for* you, but to have it work *with* you. Think of yourself as the captain of the research vessel: you set the destination and are responsible for the entire journey. This guide provides the tools to make the AI your expert, highly-trained first mate, helping you navigate each leg of the voyage with precision and confidence.
 
