@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Cover](README.md)
 * [Foreword](foreword.md)
 * [Dedication](dedication.md)
 * [Introduction](introduction.md)
