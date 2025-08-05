@@ -1,6 +1,6 @@
 # Introduction
 
-A living guide to planning a clinical research survey.
+A living guide on the best practices to planning a clinical research survey i.e. prevalence research.
 
 Welcome! This guide is crafted for students, clinicians, and aspiring researchers who are ready to turn their curiosity into a meaningful research survey. Scientific research, including surveys in medicine and health sciences, begin not with complex methods but with a clear and compelling question. Yet, before you even formulate that question, it's vital to apply a _'common sense'_ filter. The hallmark of impactful research is that it addresses a legitimate gap in our understanding i.e. a problem for which the solution isn't already obvious or simple to implement. This initial mental check ensures that your valuable time and resources are channeled into discovering new knowledge, rather than scientifically proving what is already apparent. A compelling research topic is one where the answer is not only unknown but truly needs the power of scientific inquiry to be found.
 
@@ -10,6 +10,8 @@ This walkthrough will demystify the process, from finding your research topic to
 2. Provide the critical **prevalence data** required for evidence-based allocation of national health budgets, setting public health priorities, and monitoring the effectiveness of interventions or treatments in clinical care and medical services.
 3. **Quantify disease burden** of existing or emerging illnesses in the community providing the objective evidence needed to reveal the actual level of the illness occurrence, or health disparities and to inform the design targeted services for the targeted populations.
 
+<br>
+
 From epidemiological standpoint, it is critical to understand that such a cross-sectional study cannot achieve the following study objectives:
 
 1. **Determine Causality**: It cannot establish a cause-and-effect relationship, as exposure and outcome are measured simultaneously, preventing determination of the temporal sequence, except if the exposures are biological parameters that were present at birth e.g., genetic and genomic data, blood type and RF factor, gender, etc.
@@ -18,6 +20,8 @@ From epidemiological standpoint, it is critical to understand that such a cross-
 4. **Assess Implementation Processes**: It cannot evaluate how well a program was implemented, only its outcome at a single point in time.
 5. **Study Rare or Brief Conditions**: It is inefficient for studying rare diseases or those of short duration, as the "snapshot" is likely to miss these cases.
 6. **Explore In-Depth Perceptions**: It cannot explore complex lived experiences or the "why" behind behaviours, which requires qualitative methods.
+
+<br>
 
 This guide applies equally well to the planning and conduct of **KAP** studies. A Knowledge, Attitude, and Practice (KAP) study is a quantitative cross-sectional survey designed to assess the levels of knowledge, prevailing attitudes (or beliefs/perceptions), and self-reported practices of a specific population regarding a particular health issue, disease, or treatment/intervention. It is often used to:
 
