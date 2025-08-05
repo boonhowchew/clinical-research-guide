@@ -1,5 +1,7 @@
 # Table of contents
 
+* [Foreword](foreword.md)
+* [Dedication](dedication.md)
 * [Introduction](README.md)
 * [Part 1: Finding Your Idea](part-1-finding-your-idea.md)
 * [Part 2: Designing Your Study](part-2-designing-your-study.md)
