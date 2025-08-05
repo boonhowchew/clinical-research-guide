@@ -29,6 +29,8 @@ A literature review is the methodical process of mastering the evidence, but it'
 
 A literature review is a critical and sophisticated task. Many people think it's just a long summary of everything they've read. The key shift in thinking is from **summarizing** to **synthesizing and creating an argument**. Think of it like a physician's consultation for a patient. You don't just list the patient's individual test results (a summary). You interpret them, connect them to the patient's history, identify what's missing, and present a coherent clinical opinion and a plan (a synthesis and argument). A literature review does the same for a research topic.
 
+<br>
+
 This table dispels common misconceptions.
 
 | A Literature Review **IS**...                                                                                                                | A Literature Review **IS NOT**...                                                                                                                 |
@@ -40,7 +42,6 @@ This table dispels common misconceptions.
 | ✅ **A demonstration of your command of the topic,** showing that you understand the key concepts, landmark studies, and current debates.     | ❌ **Just about what others have said.** Your authorial voice is essential for weaving the different sources together into a compelling narrative. |
 | ✅ **A map of the current state of knowledge,** which is dynamic and will evolve as new research (including your own) is published.           | ❌ **The final, definitive word** on a subject. It is a snapshot in time.                                                                          |
 
-\
 
 
 This dynamic cycle involves several core activities:
@@ -56,8 +57,6 @@ This dynamic cycle involves several core activities:
 The detailed guide [HERE](resources/literature-review.md) will further elaborate on each of the seven steps, helping you navigate the cycles of the literature review with confidence.
 
 The term "**literature review**" itself represents a spectrum of methodologies. When used generally, it often refers to a **Narrative Review**, which tells the story of the existing research to build an argument for a new study. As your research questions become more focused and the need for rigor increases, other methodologies come into play. A **Systematic Review**, for instance, uses a strict protocol to answer a specific question like "_Is Drug A better than Drug B?_", while a **Scoping Review** maps the extent of research in a broad field to see what is known and where the major gaps lie. See the table below on the defining features of these three common types of review.
-
-\
 
 
 | Feature                  | _Traditional_ Literature Review                                               | Scoping Review (In-between)                                                                                                       | Systematic Review                                                                                                                      |
@@ -76,8 +75,7 @@ For a further learning about other types of review, do check out this paper by M
 
 For examples of published review journal papers by the author [HERE](https://drive.google.com/drive/folders/1BllwAiIWzrfJ2jotwgPfRo3OIA1sD9NS?usp=share_link).
 
-\
-
+<br>
 
 ***
 
@@ -95,8 +93,7 @@ This step, combined with motivating the research by outlining the what (contribu
 
 The above process of justifying your study naturally leads to theorization, which is the step where you connect your research gap to a structured plan for finding an answer. You do this by selecting an established theory to serve as an analytical lens, which is also known as your study's theoretical framework. Using an established theory provides the necessary structure and epidemiological designs to investigate the problem, refine your research questions, and guide the conduct of the research, and your statistical analysis, ensuring your study is built on a solid scientific foundation.
 
-\
-
+<br>
 
 ***
 
@@ -124,8 +121,7 @@ While frameworks provide the initial structure for a study, they are not always 
 
 For instance, if your data reveals a new, critical factor that the original theory didnot account for, or shows that an established relationship between variables does not hold true in a specific context, this may suggest the theory needs updating. This process is fundamental to scientific advancement, it is how theories evolve and become more accurate over time. While this is less common in simple prevalence surveys, in-depth analytical studies or qualitative research can generate new insights that lead to the evolution of a conceptual framework into a new, more refined theory.
 
-\
-
+<br>
 
 ***
 
@@ -143,8 +139,7 @@ The **PECOTS** Structure:
 
 A simple formula for a prevalence question is: "What is the prevalence of \[condition] among \[population] in \[setting]?". For an example of the PECOTS worked out [HERE](resources/PECOTS-example.md).
 
-\
-
+<br>
 
 ### **From Question to Objectives: Two Sides of the Same Coin**
 
@@ -157,8 +152,7 @@ Think of them as two sides of the same coin:
 
 Essentially, your objectives are the specific, measurable steps you'll take to answer your research question. They transform your broad aim into a clear, actionable roadmap for your entire study.
 
-\
-
+<br>
 
 ### **From Question to Objectives: Creating Your Study's Roadmap**
 
@@ -171,8 +165,7 @@ Your objectives are the specific, measurable steps you'll take to answer your re
 
 For most prevalence studies, the **General and Specific Objectives** framework is the most widely used.
 
-\
-
+<br>
 
 ### **A Detailed Example: General & Specific Objectives**
 
