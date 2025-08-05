@@ -21,20 +21,20 @@ This elaborates on each step for a literature review focused on _observational e
 
 ## Step 1: Start with a Research Gap and Formulate a Focused Question
 
-Your research journey begins with identifying a potential gap, using the techniques described previously whether it's a **Knowledge Gap** you found in a systematic review, a **Practical Gap** you observed in your clinical practice, or a **Methodological Gap** noted in the limitations of a key paper. This first step is about translating that initial, sometimes vague, gap into a precise and answerable research question using the `PECOTS` framework.
+Your research journey begins with identifying a potential gap, using the techniques described previously whether it's a **Knowledge Gap** you found in a systematic review, a **Practical Gap** you observed in your clinical practice, or a **Methodological Gap** noted in the limitations of a key paper. This first step is about translating that initial, sometimes vague, gap into a precise and answerable review question using the `PECOTS` framework. The term 'review question' is used interchangeably with research question because many systematic reviews are considered as a research project on its own.
 
-**Action:** State the preliminary research gap you have identified. Then, transform it into a focused `PECOTS` question that you can use to systematically test and explore that gap.
+**Action:** State the preliminary research gap you have identified. Then, transform it into a focused `PECOTS` question that you can use to systematically test and explore that gap through the corpus of evidence/knowledge in the literature.
+
 
 ## Step 2: Develop and Execute a Search Strategy
-
 This comprehensive search will now thoroughly investigate the 'gap' you identified. Think like a detective, using a structured approach to find all the relevant evidence.
 
 **Action:** Identify databases (e.g., `PubMed/Medline`, `Scopus`, `CINAHL`), list keywords from your `PECOTS` question, and document your entire search process, including the date and the AI-assisted tools you used (e.g., `Elicit`, `Consensus AI`). At the time of the writing of this guide, AI tools include [Elicit AI](https://elicit.com/), [Silvi AI](https://www.silvi.ai/), [DistillerSR](https://www.distillersr.com/), [EPPI-Reviewer](https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=2914), [Consensus AI](https://consensus.app/), and other assisting tools such as [Perplexity AI](https://www.perplexity.ai/), [Undermind AI](https://www.undermind.ai/), [Evidence Review Accelerator (TERA)](https://tera-tools.com/), [Covidence](https://www.covidence.org/) and [Rayyan](https://www.rayyan.ai/).
 
 > **Reality Check (Iteration Point):** Your search will confirm whether the gap truly exists. You might find it has already been filled, or that it is different than you first thought. This is a critical finding! Be prepared to **go back to Step 1** to refine or even change your `PECOTS` research question.
 
-## Step 3: Screen and Select Studies Systematically
 
+## Step 3: Screen and Select Studies Systematically
 Filter your results fairly using pre-defined rules, focusing on the most relevant study designs for your non-interventional question.
 
 **Action:**
@@ -43,28 +43,28 @@ Filter your results fairly using pre-defined rules, focusing on the most relevan
     * **Pass 1:** Read only the titles and abstracts. Quickly exclude irrelevant articles.
     * **Pass 2:** Read the full text of the remaining articles to make your final decision.
 
+
 ## Step 4: Critically Appraise the Evidence
+Non-experimental or observational studies have different potential biases than clinical trials (e.g., confounding). As a clinician, you must judge the quality and reliability of this evidence carefully.
 
-Observational studies have different potential biases than clinical trials (e.g., confounding). As a clinician, you must judge the quality and reliability of this evidence carefully.
+**Action:** Use a standardized checklist designed for observational studies. Do not use a checklist for trials. Excellent tools include the **CASP checklists for cross-sectional, cohort or case-Control studies**, or the **Newcastle-Ottawa Scale (NOS)**.
 
-**Action:** Use a standardized checklist designed for observational studies. Do not use a checklist for trials. Excellent tools include the **CASP checklists for Cohort or Case-Control Studies**, or the **Newcastle-Ottawa Scale (NOS)**.
 
 ## Step 5: Extract and Synthesize the Findings
-
 This is where you pull the key information out of each paper. For observational studies, you'll be looking for measures of association, not just treatment effects.
 
 **Action:** Create a simple table (a "data extraction form"). Columns should include: `Author & Year`, `Study Design`, `Population (n=...)`, `Exposure`, `Comparator`, `Key Findings (e.g., Odds Ratio [OR], Relative Risk [RR])`, and `Quality Appraisal Notes`. This allows you to easily compare results and identify patterns.
 
 > **Reality Check (Iteration Point):** As you synthesize, you might uncover a new, more nuanced gap you hadn't anticipated. This is a valuable discovery! It may require you to **return to Step 2** to conduct a smaller, more targeted search on this new aspect.
 
-## Step 6: Define the Confirmed Gap and Its Clinical Relevance
 
+## Step 6: Define the Confirmed Gap and Its Clinical Relevance
 After systematically reviewing the literature, you are no longer working with a preliminary gap. This step is about precisely articulating the specific gap that your comprehensive review has now confirmed and defined.
 
 **Action:** Write a clear summary of the confirmed gap. Classify its type (e.g., is it a **Knowledge Gap** because no local Malaysian data exists? Or a **Methodological Gap** because all prior studies used a weak design?). Most importantly, this would explain the "**so what?** - ***The Why & The What***". 
 
-## Step 7: Construct Your Argument and Position Your Research
 
+## Step 7: Construct Your Argument and Position Your Research
 Finally, use the story you have uncovered to build a compelling and evidence-based case for your own research project. Filling the identified gap with your proposed study objectives and study designs is clinically relevant to your patients or the healthcare system, contributing to the Problem Statement section.
 
 **Action:** Write a clear narrative that flows logically from the initial problem, to the existing evidence, to the **confirmed gap you have precisely defined**, and finally to the justification for your proposed study, which is now positioned to make a valuable new contribution.
