@@ -72,6 +72,8 @@ The term "**literature review**" itself represents a spectrum of methodologies. 
 
 For a further learning about other types of review, do check out this paper by Munn, Z. et al. on ***What kind of systematic review should I conduct? A proposed typology and guidance for systematic reviewers in the medical and health sciences.*** BMC Med Res Methodol 18, 5 (2018). https://doi.org/10.1186/s12874-017-0468-4.
 
+For examples of published review journal papers by the author HERE.
+
 <br>
 
 
