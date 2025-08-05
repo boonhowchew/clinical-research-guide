@@ -21,6 +21,8 @@ Techniques for Finding Gaps:
 * **Observe Clinical Practice**: Notice patterns in patient presentation, treatment responses, or healthcare access that don't align with existing literature.
 * **Engage in Discussions**: Talk with peers, mentors, and experts at conferences or journal clubs to brainstorm and validate potential research ideas.
 
+***
+
 ## 1.2 Literature Reviews in Clinical Research
 
 A literature review is the methodical process of mastering the evidence, but it's important to know that it is a dynamic and iterative cycle in the early effort, and after the review completion especially in fast evolving fields. It is not a straight path as some might have thought. For example, a preliminary search for evidence might lead you to refine your initial question, just as synthesizing your findings can reveal unexpected gaps that require you to search again.
@@ -68,7 +70,12 @@ The term "**literature review**" itself represents a spectrum of methodologies. 
 | **Reporting** | A chapter in a thesis or a section in a paper. | Published as a standalone paper following specific guidelines like PRISMA-ScR. | Published as a standalone paper that follows strict reporting guidelines like the PRISMA statement. |
 | **Reviewer(s)** | Often a subjective assessment by a single expert. | Can be done by one reviewer, but at least two are recommended to reduce bias. | Minimum of two independent reviewers required for screening and data extraction to minimize bias. A third reviewer resolves conflicts. |
 
+For a further learning about other types of review, do check out this paper by Munn, Z. et al. on ***What kind of systematic review should I conduct? A proposed typology and guidance for systematic reviewers in the medical and health sciences.*** BMC Med Res Methodol 18, 5 (2018). https://doi.org/10.1186/s12874-017-0468-4.
+
 <br>
+
+
+***
 
 ## 1.3 From Research Gap to Research Rationale - The Problem Statements
 
@@ -77,14 +84,16 @@ Once you have identified a research topic, such as the link between internet add
 To articulate a strong motivation for your study, you should clearly explain:
 
 * **What** your research adds to the current understanding of the topic (i.e., its core contribution).
-* **How** you plan to advance the literature (i.e., your research approach).
 * **Why** your findings will be valuable to other researchers and practitioners in the field.
+* **How** you plan to advance the literature (i.e., your research approach).
 
-This step, combined with motivating the research by outlining the what (contribution), how (approach), and why (value), establishes the rationale and importance of the study. Together, this gap identification and justification form the core of a research proposal's **Problem Statement**. A strong problem statement is a concise description of a health issue that needs to be addressed through investigation. It is a declarative statement that frames the problem in a way that highlights a clear gap in knowledge and provides a compelling rationale for the study. Its primary purpose is to articulate the five "**W's**" of the health problem: What is the issue, who is affected, where and when is it occurring, and why is it important to study. (see [Box Information 2](resources/box-2-problem_statements.md) for elaboration on and examples of Problems Statements)
+This step, combined with motivating the research by outlining the what (contribution), why (value), and how (approach) establishes the rationale and importance of the study. Together, this gap identification and justification form the core of a research proposal's **Problem Statement**. A strong problem statement is a concise description of a health issue that needs to be addressed through investigation. It is a declarative statement that frames the problem in a way that highlights a clear gap in knowledge and provides a compelling rationale for the study. Its primary purpose is to articulate the five "**W's**" of the health problem: What is the issue, who is affected, where and when is it occurring, and why is it important to study. (see [Box Information 2](resources/box-2-problem_statements.md) for elaboration on and examples of Problems Statements)
 
 The above process of justifying your study naturally leads to theorization, which is the step where you connect your research gap to a structured plan for finding an answer. You do this by selecting an established theory to serve as an analytical lens, which is also known as your study's theoretical framework. Using an established theory provides the necessary structure and epidemiological designs to investigate the problem, refine your research questions, and guide the conduct of the research, and your statistical analysis, ensuring your study is built on a solid scientific foundation.
 
 <br>
+
+***
 
 ## 1.4 Understanding Your Study's Foundation: Theoretical and Conceptual Frameworks
 
@@ -96,7 +105,7 @@ A Theoretical Framework is the specific, established theory that provides the ma
 
 **What is a Conceptual Framework?**
 
-A Conceptual Framework is broader and is often what researchers develop for their specific study. It is the researcher’s synthesis of relevant ideas that explains the relationships between the key variables in the study. While a theoretical framework is based on one formal theory, a conceptual framework can be built from several sources, if needed (often so) to explain all the important factors in a new research:
+A Conceptual Framework is broader and is often what researchers develop for their specific study. It is the researcher’s synthesis of relevant ideas that explains the relationships between the key variables in the study. While a theoretical framework is based on one formal theory, a conceptual framework can be built from several sources, if needed (often so) to explain all the important factors in a new research. Therefore, the sources of conceptual frameworks:
 
 * It might integrate parts of one or more formal theories.
 * It can include concepts and models from different fields (e.g., combining psychological theories with sociological observations).
@@ -111,6 +120,8 @@ While frameworks provide the initial structure for a study, they are not always 
 For instance, if your data reveals a new, critical factor that the original theory didnot account for, or shows that an established relationship between variables does not hold true in a specific context, this may suggest the theory needs updating. This process is fundamental to scientific advancement, it is how theories evolve and become more accurate over time. While this is less common in simple prevalence surveys, in-depth analytical studies or qualitative research can generate new insights that lead to the evolution of a conceptual framework into a new, more refined theory.
 
 <br>
+
+***
 
 ## 1.5 Formulate a Clear Research Question and Objectives
 
@@ -128,36 +139,32 @@ A simple formula for a prevalence question is: "What is the prevalence of \[cond
 
 <br>
 
-From Question to Objectives: Your objectives are the specific, measurable steps you'll take to answer your question.
+### **From Question to Objectives: Two Sides of the Same Coin**
+A research project is driven by curiosity, which takes the form of a **research question**. However, to answer that question systematically, we must translate our curiosity into a concrete plan of action. This plan is articulated through our **research objectives**. 
 
-Of course. You've correctly identified a key nuance. The distinction between "General/Specific" and "Primary/Secondary" objectives is crucial for methodological clarity, and the previous text could be significantly improved.
+Think of them as two sides of the same coin:
 
-The "General/Specific" framework is perfect for descriptive or observational research like most prevalence studies, while "Primary/Secondary" is the standard for hypothesis-testing studies, especially clinical trials.
+*   **The Research Question** is the **"inquisitive" side**. It is what you want to *know*. It is always phrased as a question (e.g., "What is the prevalence of...?").
+*   **The Research Objectives** are the **"active" side**. They are what you will *do* to find the answer. They are always phrased as a statement of intent, using strong action verbs (e.g., "To determine the prevalence of...").
 
-Here is a revised, more instructive version that clarifies this distinction and provides a more coherent and illustrative example.
+Essentially, your objectives are the specific, measurable steps you'll take to answer your research question. They transform your broad aim into a clear, actionable roadmap for your entire study.
 
-***
+<br>
 
 ### **From Question to Objectives: Creating Your Study's Roadmap**
+Your objectives are the specific, measurable steps you'll take to answer your research question. They transform your broad aim into a clear, actionable roadmap for your entire study. There are two common frameworks for stating objectives. Choosing the right one signals the nature of your study.
 
-Your objectives are the specific, measurable steps you'll take to answer your research question. They transform your broad aim into a clear, actionable roadmap for your entire study.
-
-#### **Choosing the Right Objective Framework**
-
-There are two common frameworks for stating objectives. Choosing the right one signals the nature of your study.
-
-1.  **General & Specific Objectives:** This is the most common framework for **observational or descriptive studies**, including prevalence studies, surveys, and dissertations. It outlines a main, overarching goal and the series of steps required to achieve it.
+1.  **General & Specific Objectives:** This is the most common framework for **observational or descriptive studies**, including prevalence studies, surveys, and dissertations. It outlines a main, overarching goal and the series of steps required to achieve it. Since all the objectives are to be achieved, the sample size estimation is powered to answer all of them i.e. choosing the largest estimated sample size.
 
 2.  **Primary & Secondary Objectives:** This framework is the standard for **experimental or hypothesis-testing studies**, especially clinical trials (RCTs).
     *   The **Primary Objective** is the single, most important question the study is powered to answer (e.g., "To determine if Drug A is superior to a placebo...").
     *   **Secondary Objectives** are other important questions that are exploratory or not the central focus of the study's statistical power.
 
-For most prevalence studies, the **General and Specific Objectives** framework is the most appropriate and widely used.
+For most prevalence studies, the **General and Specific Objectives** framework is the most widely used.
 
 <br>
 
 ### **A Detailed Example: General & Specific Objectives**
-
 Let's look at how a research question is broken down into a clear set of objectives.
 
 **Research Question:** "What is the prevalence of problematic internet use among university students at our university, and what factors are associated with it?"
