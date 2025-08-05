@@ -24,4 +24,4 @@ A number is just a number until you explain what it means. For content guide in 
 
 A good plan includes a budget, a timeline (a Gantt chart is useful), and documented support from your team and institution. By following these structured steps, you can transform your initial curiosity into a solid, ethical, and impactful research study. Congratulations on taking this important step!
 
-For further tips and guidance on using artificial intelligence tools in your research proposal writing and learning, go [here](https://doi.org/10.5281/zenodo.14998127).
+For further tips and guidance on using artificial intelligence tools in your research proposal writing and learning, go to the next [Part 5](part-5-AI-copilot.md) and a preprint [here](https://doi.org/10.5281/zenodo.14998127).
