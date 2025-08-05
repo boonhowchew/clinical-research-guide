@@ -143,7 +143,7 @@ A simple formula for a prevalence question is: "What is the prevalence of \[cond
 
 ### **From Question to Objectives: Two Sides of the Same Coin**
 
-A research project is driven by curiosity, which takes the form of a **research question**. However, to answer that question systematically, we must translate our curiosity into a concrete plan of action. This plan is articulated through our **research objectives**.
+A research project is driven by curiosity, which takes the form of a **research question**. However, to answer that question systematically, you must translate your curiosity into a concrete plan of action. This plan is articulated through our **research objectives**.
 
 Think of them as two sides of the same coin:
 
