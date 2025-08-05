@@ -3,6 +3,7 @@
 * [Cover](README.md)
 * [Foreword](foreword.md)
 * [Dedication](dedication.md)
+* [About](about.md)
 * [Introduction](introduction.md)
 * [Part 1: Finding Your Idea](part-1-finding-your-idea.md)
 * [Part 2: Designing Your Study](part-2-designing-your-study.md)
@@ -20,4 +21,3 @@
 * [A Step-by-Step Guide: Using PECOTS for Your Non-Interventional Study](resources/PECOTS-example.md)
 * [Box 3: Generalizability](resources/box-3-generalizability.md)
 * [Examples: Sample Size](resources/examples-sample-size.md)
-* [About](about.md)
