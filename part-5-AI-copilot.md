@@ -285,10 +285,11 @@ With our objectives defined and measurement tools selected, we now move to the o
 
 *Based on this, draft the following plans:*
 
-1.  ***Data Collection Protocol:** Outline the step-by-step process for collecting data using the specified tools, from approaching the participant to obtaining consent and administering the questionnaires.*
-2.  ***Piloting Plan:** Describe the steps for piloting the questionnaire(s) with a small sample (e.g., 10-15 participants). Specify that the goal is to check for clarity, flow, and time to completion.*
-3.  ***Descriptive Analysis Plan:** Specifically for the primary objective, outline the descriptive statistics (e.g., frequencies, percentages for categorical data; means, standard deviations for continuous data) that will be used to summarize participant characteristics and calculate the prevalence of the main outcome with its 95% Confidence Interval.*
-4.  ***Dummy Tables:** Create two dummy tables showing how the results for 'Participant Demographics' and 'Prevalence of the Primary Outcome' will be presented.*
+1.  ***Data Collection Protocol:** Outline the step-by-step process for collecting data using the specified tools, from approaching the participant to obtaining consent and administering the questionnaires, give due attention to the proper use of interviewing, training of interviewer, arrangement of the setting where the participants to respond to the questionnaire, checking of completion on the questionnaire, and safe-keeping of the completed questionnaires, etc.*
+2.  ***Bias Mitigation**: Describe steps that could be taken during data collection to minimize measurement bias and information bias.*
+3.  ***Piloting Plan:** Describe the steps for piloting the questionnaire(s) with a small sample (e.g., 10-20 participants). Specify that the goal is to check for clarity, flow, and time to completion.*
+4.  ***Descriptive Analysis Plan:** Specifically for the primary objective, outline the descriptive statistics (e.g., frequencies, percentages for categorical data; means, standard deviations for continuous data) that will be used to summarize participant characteristics and calculate the prevalence of the main outcome with its 95% Confidence Interval.*
+5.  ***Dummy Tables:** Create two dummy tables showing how the results for 'Participant Demographics' and 'Prevalence of the Primary Outcome' will be presented.*
 
 
 ### **3.3 & 3.4: Planning the Association Model and for Success**
@@ -317,14 +318,40 @@ The previous step detailed the analysis for our primary objective (the "what"). 
 
 ### **4.1, 4.2 & 4.3: Ensuring Ethical Conduct, Reporting, and Practical Planning**
 
-*   **Objective:** To draft key administrative and concluding sections of the research proposal.
+*   **Objective:** To draft key administrative and concluding all sections of the research proposal.
 *   **AI's Role:** An experienced research manager and academic writer.
 
 ***Final Prompt:***
-"*Act as an experienced academic writer and a research manager preparing the final sections of a proposal.*
+"*Act as an experienced medical ethicist, a academic writer and a research manager preparing the final sections of a proposal.*
 1.  ***Ethical Conduct:** Draft the 'Ethical Considerations' section, ensuring it covers informed consent, data confidentiality, anonymity, and the process for obtaining approval from a Research Ethics Committee.*
-2.  ***Interpretation and Discussion:** Using the nuanced definition from the guide, draft a paragraph on the potential 'Limitations' of this study. Frame them as imperfections of a rigorous design, not as excuses (e.g., 'While a cross-sectional design can identify associations, it cannot establish causality...').*
+2.  ***Discussion:** Using the nuanced definition from the guide, help me brainstorm potential shortfalls (e.g., risk of recall bias, potential for selection bias) and the steps I will take to mitigate them, and the potential 'Limitations' of this study. Frame them as imperfections of a rigorous design, not as excuses (e.g., 'While a cross-sectional design can identify associations, etc that are relevant and appropriate to the proposed research. Do not include or highlight that a cross-sectional cannot establish causality because this understood and obvious.'). Then, draft a few paragraphs on these.*
 3.  ***Practical Planning:** Create a simple Gantt chart in a markdown table format outlining the major project phases (e.g., Ethics Approval, Piloting, Data Collection, Analysis, Manuscript Writing) over a 12-month timeline.*"
+
+(Note to User: Try to revisit and use the Mermaid to generate your visual Gantt chart. Tip: you can ask the LLM to craft the prompt for you.)
+
+4.  ***Budget Costing:*** *Now, as a meticulous research manager, draft a detailed, itemised budget for this project. To ensure the budget is effective and compliant, it is highly recommended that you **upload the grant's guidelines or terms of reference**. I will then structure the budget according to the required categories (e.g., Vot 11000 - Salaries, Vot 21000 - Travel, Vot 27000 - Supplies). For each item, I will provide an estimated cost based on the best available market prices.*
+
+    ***Crucial Caveat:*** *Please conclude the response with a strong cautionary note. It should state that all figures provided are **estimates** and are likely to be incorrect. Emphasise that I, the researcher, **must double-check all prices** with actual suppliers. Acknowledge that while the generated budget is a significant help for structuring and starting the tedious costing process, it cannot replace due diligence.*"
+
+  #### 5: Writing the Conclusion and Preparing Supplementary Materials
+* **Objective:** To write a compelling conclusion that summarises the proposal's significance and to list potential supplementary documents.
+* **AI's Role:** An experienced academic writer.
+
+***Prompt for Conclusion & Appendices:***
+"*Act as an experienced academic writer summarizing a research proposal. Assume the main body of the proposal is complete.*
+1.  ***Conclusion:*** *Based on the entire proposal drafted so far (Introduction, Methods, Ethical Considerations, and Budget), write a strong concluding section. This section should succinctly reiterate the research problem, the proposed approach, and the expected significance or impact of the findings. It should leave the reviewer with a clear and positive final impression of the project's value and feasibility.*
+2.  ***Supplementary Materials:*** *Based on the project plan, list the potential documents that should be included as supplementary materials or appendices. Suggest items like the detailed budget, the Gantt chart, draft survey questionnaires, participant information sheets, and informed consent forms. Add a note advising me to check the specific requirements of the ethics committee and funding body, as they may have required templates.*"
+
+  #### 6: Crafting the Final Abstract and Title
+* **Objective:** To distill the entire research proposal into a structured abstract and a compelling title, which are often the first (and sometimes only) parts a reviewer reads.
+* **AI's Role:** An expert academic editor.
+
+***Final Polish Prompt:***
+"*Act as an expert academic editor tasked with creating the most impactful first impression for a research proposal. Assume the entire proposal draft is now complete.*
+1.  ***Structured Abstract:*** *Using all the information from the completed proposal, draft a structured abstract of no more than [e.g., 300 words]. Follow this structure: **Introduction:** (briefly state the problem and objective); **Methods:** (summarize the study design, participants, and main procedures); **Discussion:** (Briefly describe the importance of the proposed research again as the first paragraph. Then, highlight the strengths and limitations of the proposed methods, and what are planned to elevate the rigour of the proposed research and to minimise biases); **Conclusions or Expected Outcomes & Impact:** (describe what the study will find and why it is important). Ensure this Abstract is concise, clear, and stands alone as a complete summary of the project.*
+2.  ***Title Creation:*** *Based on the finalized proposal and abstract, generate 5-7 alternative titles for this research project. The titles should be informative and concise (ideally under 15 words), incorporating the key variables, study population, and design where appropriate. Aim for a mix of declarative titles and descriptive titles.*"
+
+<br>
 
 ---
 
